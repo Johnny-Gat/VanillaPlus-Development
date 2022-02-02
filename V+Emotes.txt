@@ -75,7 +75,7 @@ EMOTE30_CMD2 = "/knuckles";
 
 EMOTE31_CMD1 = "/cringe";
 
-EMOTE32_CMD1 = "/cry";
+EMOTE32_CMD1 = "/cry";			переведено
 EMOTE32_CMD2 = "/sob";
 EMOTE32_CMD3 = "/weep";
 
@@ -83,7 +83,7 @@ EMOTE33_CMD1 = "/curious";
 
 EMOTE34_CMD1 = "/curtsey";
 
-EMOTE35_CMD1 = "/dance";
+EMOTE35_CMD1 = "/dance";			переведено
 
 EMOTE36_CMD1 = "/drink";
 EMOTE36_CMD2 = "/party";
