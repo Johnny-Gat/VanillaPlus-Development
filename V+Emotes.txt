@@ -241,7 +241,6 @@ EMOTE98_CMD1 = "/thank";
 EMOTE98_CMD2 = "/thanks";
 EMOTE98_CMD3 = "/ty";
 
-
 EMOTE99_CMD1 = "/threaten";
 EMOTE99_CMD2 = "/doom";
 EMOTE99_CMD3 = "/threat";
@@ -364,3 +363,8 @@ EMOTE153_CMD1 = "/moo";
 EMOTE154_CMD1 = "/commend";
 
 EMOTE155_CMD1 = "/train";
+
+
+еще есть эмоция /golfclap
+https://wowwiki-archive.fandom.com/wiki/Emote
+https://wowwiki-archive.fandom.com/wiki/List_of_emotes
