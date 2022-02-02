@@ -369,3 +369,13 @@ EMOTE155_CMD1 = "/train";
 https://wowwiki-archive.fandom.com/wiki/Emote
 https://wowwiki-archive.fandom.com/wiki/List_of_emotes
 https://wowpedia.fandom.com/wiki/Emote
+
+
+https://wowwiki-archive.fandom.com/wiki/API_ChangeChatColor
+https://www.wowinterface.com/forums/showthread.php?t=25712
+https://www.wowinterface.com/forums/showthread.php?t=57710
+https://www.mmo-champion.com/threads/2160133-Is-there-a-way-to-get-the-values-of-a-chat-channel-colour
+https://wowwiki-archive.fandom.com/wiki/ChatTypeInfo
+
+
+
