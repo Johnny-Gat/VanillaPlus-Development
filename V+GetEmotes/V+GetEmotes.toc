@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: V+ Dev GetEmotes
+## Notes: Аддон сохряняет текст эмоций.
+## Author: Johnny Gat
+## Version: 1
+## SavedVariables: SV_Emotes
+
+addon.lua
