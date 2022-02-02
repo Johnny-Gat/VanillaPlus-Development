@@ -368,3 +368,4 @@ EMOTE155_CMD1 = "/train";
 еще есть эмоция /golfclap
 https://wowwiki-archive.fandom.com/wiki/Emote
 https://wowwiki-archive.fandom.com/wiki/List_of_emotes
+https://wowpedia.fandom.com/wiki/Emote
