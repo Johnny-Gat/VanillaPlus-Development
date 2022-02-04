@@ -13,203 +13,130 @@ DEFAULT_CHAT_FRAME:AddMessage("text", c.r, c.g, c.b)
 
 из файлов игры можно вытащить 155 эмоций, а на https://www.townlong-yak.com/framexml/1.12.1/GlobalStrings.lua их 170
 
-EMOTE1_CMD2 = "/agree";
 EMOTE1_CMD1 = "/agree";
 
-EMOTE2_CMD2 = "/amaze";
 EMOTE2_CMD1 = "/amaze";
 
-EMOTE3_CMD3 = "/angry";
 EMOTE3_CMD1 = "/angry";
-EMOTE3_CMD4 = "/mad";
 EMOTE3_CMD2 = "/mad";
 
-EMOTE4_CMD3 = "/apologize";
-EMOTE4_CMD4 = "/sorry";
-EMOTE4_CMD2 = "/sorry";
 EMOTE4_CMD1 = "/apologize";
+EMOTE4_CMD2 = "/sorry";
 
-EMOTE5_CMD4 = "/applaud";
-EMOTE5_CMD3 = "/applause";
-EMOTE5_CMD2 = "/bravo";
 EMOTE5_CMD1 = "/applaud";
-EMOTE5_CMD5 = "/bravo";
-EMOTE5_CMD6 = "/applause";
+EMOTE5_CMD2 = "/bravo";
+EMOTE5_CMD3 = "/applause";
 
 EMOTE6_CMD1 = "/bashful";
-EMOTE6_CMD2 = "/bashful";
 
-EMOTE7_CMD2 = "/beckon";
 EMOTE7_CMD1 = "/beckon";
 
-EMOTE8_CMD2 = "/beg";
 EMOTE8_CMD1 = "/beg";
 
 EMOTE9_CMD1 = "/bite";
-EMOTE9_CMD2 = "/bite";
 
-EMOTE10_CMD2 = "/blood";
 EMOTE10_CMD1 = "/bleed";
-EMOTE10_CMD4 = "/blood";
-EMOTE10_CMD3 = "/bleed";
+EMOTE10_CMD2 = "/blood";
 
-EMOTE11_CMD2 = "/blink";
 EMOTE11_CMD1 = "/blink";
 
 EMOTE12_CMD1 = "/blush";
-EMOTE12_CMD2 = "/blush";
 
-EMOTE13_CMD2 = "/doh";
 EMOTE13_CMD1 = "/bonk";
-EMOTE13_CMD4 = "/doh";
-EMOTE13_CMD3 = "/bonk";
+EMOTE13_CMD2 = "/doh";
 
-EMOTE14_CMD2 = "/bored";
 EMOTE14_CMD1 = "/bored";
 
 EMOTE15_CMD1 = "/bounce";
-EMOTE15_CMD2 = "/bounce";
 
-EMOTE16_CMD2 = "/brb";
 EMOTE16_CMD1 = "/brb";
 
-EMOTE17_CMD2 = "/bow";
 EMOTE17_CMD1 = "/bow";
 
 EMOTE18_CMD1 = "/burp";
 EMOTE18_CMD2 = "/belch";
-EMOTE18_CMD3 = "/burp";
-EMOTE18_CMD4 = "/belch";
 
 EMOTE19_CMD1 = "/bye";
 EMOTE19_CMD2 = "/goodbye";
-EMOTE19_CMD6 = "/farewell";
-EMOTE19_CMD5 = "/goodbye";
-EMOTE19_CMD4 = "/bye";
 EMOTE19_CMD3 = "/farewell";
 
-EMOTE20_CMD2 = "/cackle";
 EMOTE20_CMD1 = "/cackle";
 
-EMOTE21_CMD2 = "/cheer";
 EMOTE21_CMD1 = "/cheer";
 
-EMOTE22_CMD4 = "/chicken";
 EMOTE22_CMD1 = "/chicken";
 EMOTE22_CMD2 = "/flap";
-EMOTE22_CMD5 = "/flap";
-EMOTE22_CMD6 = "/strut";
 EMOTE22_CMD3 = "/strut";
 
 EMOTE23_CMD1 = "/chuckle";
-EMOTE23_CMD2 = "/chuckle";
 
 EMOTE24_CMD1 = "/clap";
-EMOTE24_CMD2 = "/clap";
 
 EMOTE25_CMD1 = "/confused";
-EMOTE25_CMD2 = "/confused";
 
-EMOTE26_CMD2 = "/congrats";
-EMOTE26_CMD4 = "/congratulate";
-EMOTE26_CMD5 = "/congrats";
-EMOTE26_CMD3 = "/cong";
 EMOTE26_CMD1 = "/congratulate";
-EMOTE26_CMD6 = "/cong";
+EMOTE26_CMD2 = "/congrats";
+EMOTE26_CMD3 = "/cong";
 
-EMOTE27_CMD2 = "/unused";
 EMOTE27_CMD1 = "/unused";
 
-EMOTE28_CMD2 = "/cough";
 EMOTE28_CMD1 = "/cough";
 
 EMOTE29_CMD1 = "/cower";
-EMOTE29_CMD4 = "/fear";
-EMOTE29_CMD3 = "/cower";
 EMOTE29_CMD2 = "/fear";
 
-EMOTE30_CMD3 = "/crack";
-EMOTE30_CMD4 = "/knuckles";
 EMOTE30_CMD1 = "/crack";
 EMOTE30_CMD2 = "/knuckles";
 
 EMOTE31_CMD1 = "/cringe";
-EMOTE31_CMD2 = "/cringe";
 
-EMOTE32_CMD4 = "/cry";
-EMOTE32_CMD3 = "/weep";
-EMOTE32_CMD2 = "/sob";
 EMOTE32_CMD1 = "/cry";
-EMOTE32_CMD5 = "/sob";
-EMOTE32_CMD6 = "/weep";
+EMOTE32_CMD2 = "/sob";
+EMOTE32_CMD3 = "/weep";
 
 EMOTE33_CMD1 = "/curious";
-EMOTE33_CMD2 = "/curious";
 
 EMOTE34_CMD1 = "/curtsey";
-EMOTE34_CMD2 = "/curtsey";
 
-EMOTE35_CMD2 = "/dance";
 EMOTE35_CMD1 = "/dance";
 
 EMOTE36_CMD1 = "/drink";
 EMOTE36_CMD2 = "/shindig";
-EMOTE36_CMD4 = "/shindig";
-EMOTE36_CMD3 = "/drink";
 
 EMOTE37_CMD1 = "/drool";
-EMOTE37_CMD2 = "/drool";
 
-EMOTE38_CMD4 = "/eat";
-EMOTE38_CMD5 = "/chew";
-EMOTE38_CMD3 = "/feast";
-EMOTE38_CMD2 = "/chew";
-EMOTE38_CMD6 = "/feast";
 EMOTE38_CMD1 = "/eat";
+EMOTE38_CMD2 = "/chew";
+EMOTE38_CMD3 = "/feast";
 
 EMOTE39_CMD1 = "/eye";
-EMOTE39_CMD2 = "/eye";
 
 EMOTE40_CMD1 = "/fart";
-EMOTE40_CMD2 = "/fart";
 
 EMOTE41_CMD1 = "/fidget";
-EMOTE41_CMD4 = "/impatient";
-EMOTE41_CMD3 = "/fidget";
 EMOTE41_CMD2 = "/impatient";
 
-EMOTE42_CMD3 = "/flex";
-EMOTE42_CMD2 = "/strong";
-EMOTE42_CMD4 = "/strong";
 EMOTE42_CMD1 = "/flex";
+EMOTE42_CMD2 = "/strong";
 
-EMOTE43_CMD3 = "/disappointment";
 EMOTE43_CMD1 = "/frown";
-EMOTE43_CMD6 = "/disappointment";
 EMOTE43_CMD2 = "/disappointed";
-EMOTE43_CMD4 = "/frown";
-EMOTE43_CMD5 = "/disappointed";
+EMOTE43_CMD3 = "/disappointment";
 
-EMOTE44_CMD3 = "/gasp";
-EMOTE44_CMD2 = "/gasp";
 EMOTE44_CMD1 = "/gasp";
 
-EMOTE45_CMD2 = "/gaze";
 EMOTE45_CMD1 = "/gaze";
 
-EMOTE46_CMD2 = "/giggle";
 EMOTE46_CMD1 = "/giggle";
 
 EMOTE47_CMD1 = "/glare";
-EMOTE47_CMD2 = "/glare";
 
 EMOTE48_CMD1 = "/gloat";
-EMOTE48_CMD2 = "/gloat";
 
 EMOTE49_CMD1 = "/greet";
-EMOTE49_CMD3 = "/greet";
 EMOTE49_CMD2 = "/greetings";
-EMOTE49_CMD4 = "/greetings";
+
+------------------------------------------------------------------------------------------------------------
 
 EMOTE50_CMD3 = "/wickedly";
 EMOTE50_CMD4 = "/grin";
