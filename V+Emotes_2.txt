@@ -1,0 +1,642 @@
+https://wowwiki-archive.fandom.com/wiki/Emote
+https://wowwiki-archive.fandom.com/wiki/List_of_emotes
+https://wowpedia.fandom.com/wiki/Emote
+
+https://wowwiki-archive.fandom.com/wiki/API_ChangeChatColor
+https://www.wowinterface.com/forums/showthread.php?t=25712
+https://www.wowinterface.com/forums/showthread.php?t=57710
+https://www.mmo-champion.com/threads/2160133-Is-there-a-way-to-get-the-values-of-a-chat-channel-colour
+https://wowwiki-archive.fandom.com/wiki/ChatTypeInfo
+
+local c = ChatTypeInfo["TEXT_EMOTE"]
+DEFAULT_CHAT_FRAME:AddMessage("text", c.r, c.g, c.b)
+
+из файлов игры можно вытащить 155 эмоций, а на https://www.townlong-yak.com/framexml/1.12.1/GlobalStrings.lua их 170
+
+EMOTE1_CMD2 = "/agree";
+EMOTE1_CMD1 = "/agree";
+
+EMOTE2_CMD2 = "/amaze";
+EMOTE2_CMD1 = "/amaze";
+
+EMOTE3_CMD3 = "/angry";
+EMOTE3_CMD1 = "/angry";
+EMOTE3_CMD4 = "/mad";
+EMOTE3_CMD2 = "/mad";
+
+EMOTE4_CMD3 = "/apologize";
+EMOTE4_CMD4 = "/sorry";
+EMOTE4_CMD2 = "/sorry";
+EMOTE4_CMD1 = "/apologize";
+
+EMOTE5_CMD4 = "/applaud";
+EMOTE5_CMD3 = "/applause";
+EMOTE5_CMD2 = "/bravo";
+EMOTE5_CMD1 = "/applaud";
+EMOTE5_CMD5 = "/bravo";
+EMOTE5_CMD6 = "/applause";
+
+EMOTE6_CMD1 = "/bashful";
+EMOTE6_CMD2 = "/bashful";
+
+EMOTE7_CMD2 = "/beckon";
+EMOTE7_CMD1 = "/beckon";
+
+EMOTE8_CMD2 = "/beg";
+EMOTE8_CMD1 = "/beg";
+
+EMOTE9_CMD1 = "/bite";
+EMOTE9_CMD2 = "/bite";
+
+EMOTE10_CMD2 = "/blood";
+EMOTE10_CMD1 = "/bleed";
+EMOTE10_CMD4 = "/blood";
+EMOTE10_CMD3 = "/bleed";
+
+EMOTE11_CMD2 = "/blink";
+EMOTE11_CMD1 = "/blink";
+
+EMOTE12_CMD1 = "/blush";
+EMOTE12_CMD2 = "/blush";
+
+EMOTE13_CMD2 = "/doh";
+EMOTE13_CMD1 = "/bonk";
+EMOTE13_CMD4 = "/doh";
+EMOTE13_CMD3 = "/bonk";
+
+EMOTE14_CMD2 = "/bored";
+EMOTE14_CMD1 = "/bored";
+
+EMOTE15_CMD1 = "/bounce";
+EMOTE15_CMD2 = "/bounce";
+
+EMOTE16_CMD2 = "/brb";
+EMOTE16_CMD1 = "/brb";
+
+EMOTE17_CMD2 = "/bow";
+EMOTE17_CMD1 = "/bow";
+
+EMOTE18_CMD1 = "/burp";
+EMOTE18_CMD2 = "/belch";
+EMOTE18_CMD3 = "/burp";
+EMOTE18_CMD4 = "/belch";
+
+EMOTE19_CMD1 = "/bye";
+EMOTE19_CMD2 = "/goodbye";
+EMOTE19_CMD6 = "/farewell";
+EMOTE19_CMD5 = "/goodbye";
+EMOTE19_CMD4 = "/bye";
+EMOTE19_CMD3 = "/farewell";
+
+EMOTE20_CMD2 = "/cackle";
+EMOTE20_CMD1 = "/cackle";
+
+EMOTE21_CMD2 = "/cheer";
+EMOTE21_CMD1 = "/cheer";
+
+EMOTE22_CMD4 = "/chicken";
+EMOTE22_CMD1 = "/chicken";
+EMOTE22_CMD2 = "/flap";
+EMOTE22_CMD5 = "/flap";
+EMOTE22_CMD6 = "/strut";
+EMOTE22_CMD3 = "/strut";
+
+EMOTE23_CMD1 = "/chuckle";
+EMOTE23_CMD2 = "/chuckle";
+
+EMOTE24_CMD1 = "/clap";
+EMOTE24_CMD2 = "/clap";
+
+EMOTE25_CMD1 = "/confused";
+EMOTE25_CMD2 = "/confused";
+
+EMOTE26_CMD2 = "/congrats";
+EMOTE26_CMD4 = "/congratulate";
+EMOTE26_CMD5 = "/congrats";
+EMOTE26_CMD3 = "/cong";
+EMOTE26_CMD1 = "/congratulate";
+EMOTE26_CMD6 = "/cong";
+
+EMOTE27_CMD2 = "/unused";
+EMOTE27_CMD1 = "/unused";
+
+EMOTE28_CMD2 = "/cough";
+EMOTE28_CMD1 = "/cough";
+
+EMOTE29_CMD1 = "/cower";
+EMOTE29_CMD4 = "/fear";
+EMOTE29_CMD3 = "/cower";
+EMOTE29_CMD2 = "/fear";
+
+EMOTE30_CMD3 = "/crack";
+EMOTE30_CMD4 = "/knuckles";
+EMOTE30_CMD1 = "/crack";
+EMOTE30_CMD2 = "/knuckles";
+
+EMOTE31_CMD1 = "/cringe";
+EMOTE31_CMD2 = "/cringe";
+
+EMOTE32_CMD4 = "/cry";
+EMOTE32_CMD3 = "/weep";
+EMOTE32_CMD2 = "/sob";
+EMOTE32_CMD1 = "/cry";
+EMOTE32_CMD5 = "/sob";
+EMOTE32_CMD6 = "/weep";
+
+EMOTE33_CMD1 = "/curious";
+EMOTE33_CMD2 = "/curious";
+
+EMOTE34_CMD1 = "/curtsey";
+EMOTE34_CMD2 = "/curtsey";
+
+EMOTE35_CMD2 = "/dance";
+EMOTE35_CMD1 = "/dance";
+
+EMOTE36_CMD1 = "/drink";
+EMOTE36_CMD2 = "/shindig";
+EMOTE36_CMD4 = "/shindig";
+EMOTE36_CMD3 = "/drink";
+
+EMOTE37_CMD1 = "/drool";
+EMOTE37_CMD2 = "/drool";
+
+EMOTE38_CMD4 = "/eat";
+EMOTE38_CMD5 = "/chew";
+EMOTE38_CMD3 = "/feast";
+EMOTE38_CMD2 = "/chew";
+EMOTE38_CMD6 = "/feast";
+EMOTE38_CMD1 = "/eat";
+
+EMOTE39_CMD1 = "/eye";
+EMOTE39_CMD2 = "/eye";
+
+EMOTE40_CMD1 = "/fart";
+EMOTE40_CMD2 = "/fart";
+
+EMOTE41_CMD1 = "/fidget";
+EMOTE41_CMD4 = "/impatient";
+EMOTE41_CMD3 = "/fidget";
+EMOTE41_CMD2 = "/impatient";
+
+EMOTE42_CMD3 = "/flex";
+EMOTE42_CMD2 = "/strong";
+EMOTE42_CMD4 = "/strong";
+EMOTE42_CMD1 = "/flex";
+
+EMOTE43_CMD3 = "/disappointment";
+EMOTE43_CMD1 = "/frown";
+EMOTE43_CMD6 = "/disappointment";
+EMOTE43_CMD2 = "/disappointed";
+EMOTE43_CMD4 = "/frown";
+EMOTE43_CMD5 = "/disappointed";
+
+EMOTE44_CMD3 = "/gasp";
+EMOTE44_CMD2 = "/gasp";
+EMOTE44_CMD1 = "/gasp";
+
+EMOTE45_CMD2 = "/gaze";
+EMOTE45_CMD1 = "/gaze";
+
+EMOTE46_CMD2 = "/giggle";
+EMOTE46_CMD1 = "/giggle";
+
+EMOTE47_CMD1 = "/glare";
+EMOTE47_CMD2 = "/glare";
+
+EMOTE48_CMD1 = "/gloat";
+EMOTE48_CMD2 = "/gloat";
+
+EMOTE49_CMD1 = "/greet";
+EMOTE49_CMD3 = "/greet";
+EMOTE49_CMD2 = "/greetings";
+EMOTE49_CMD4 = "/greetings";
+
+EMOTE50_CMD3 = "/wickedly";
+EMOTE50_CMD4 = "/grin";
+EMOTE50_CMD5 = "/wicked";
+EMOTE50_CMD2 = "/wicked";
+EMOTE50_CMD6 = "/wickedly";
+EMOTE50_CMD1 = "/grin";
+
+EMOTE51_CMD1 = "/groan";
+EMOTE51_CMD2 = "/groan";
+
+EMOTE52_CMD4 = "/peon";
+EMOTE52_CMD3 = "/grovel";
+EMOTE52_CMD2 = "/peon";
+EMOTE52_CMD1 = "/grovel";
+
+EMOTE53_CMD2 = "/guffaw";
+EMOTE53_CMD1 = "/guffaw";
+
+EMOTE54_CMD2 = "/hail";
+EMOTE54_CMD1 = "/hail";
+
+EMOTE55_CMD5 = "/glad";
+EMOTE55_CMD2 = "/glad";
+EMOTE55_CMD1 = "/happy";
+EMOTE55_CMD4 = "/happy";
+EMOTE55_CMD3 = "/yay";
+EMOTE55_CMD6 = "/yay";
+
+EMOTE56_CMD1 = "/hello";
+EMOTE56_CMD3 = "/hello";
+EMOTE56_CMD2 = "/hi";
+EMOTE56_CMD4 = "/hi";
+
+EMOTE57_CMD2 = "/hug";
+EMOTE57_CMD1 = "/hug";
+
+EMOTE58_CMD5 = "/pizza";
+EMOTE58_CMD1 = "/hungry";
+EMOTE58_CMD6 = "/pizza";
+EMOTE58_CMD3 = "/hungry";
+EMOTE58_CMD2 = "/food";
+EMOTE58_CMD4 = "/food";
+
+EMOTE59_CMD3 = "/kiss";
+EMOTE59_CMD1 = "/kiss";
+EMOTE59_CMD2 = "/blow";
+EMOTE59_CMD4 = "/blow";
+
+EMOTE60_CMD2 = "/kneel";
+EMOTE60_CMD1 = "/kneel";
+EMOTE60_CMD3 = "/kneel";
+
+EMOTE61_CMD3 = "/laugh";
+EMOTE61_CMD4 = "/lol";
+EMOTE61_CMD2 = "/lol";
+EMOTE61_CMD1 = "/laugh";
+
+EMOTE62_CMD7 = "/lay";
+EMOTE62_CMD2 = "/liedown";
+EMOTE62_CMD4 = "/lie";
+EMOTE62_CMD3 = "/lay";
+EMOTE62_CMD1 = "/laydown";
+EMOTE62_CMD8 = "/lie";
+EMOTE62_CMD5 = "/laydown";
+EMOTE62_CMD6 = "/liedown";
+
+EMOTE63_CMD2 = "/massage";
+EMOTE63_CMD1 = "/massage";
+
+EMOTE64_CMD1 = "/moan";
+EMOTE64_CMD2 = "/moan";
+
+EMOTE65_CMD2 = "/moon";
+EMOTE65_CMD1 = "/moon";
+
+EMOTE66_CMD2 = "/mourn";
+EMOTE66_CMD1 = "/mourn";
+
+EMOTE67_CMD2 = "/no";
+EMOTE67_CMD1 = "/no";
+
+EMOTE68_CMD3 = "/nod";
+EMOTE68_CMD2 = "/yes";
+EMOTE68_CMD1 = "/nod";
+EMOTE68_CMD4 = "/yes";
+
+EMOTE69_CMD1 = "/nosepick";
+EMOTE69_CMD3 = "/nosepick";
+EMOTE69_CMD2 = "/pick";
+EMOTE69_CMD4 = "/pick";
+
+EMOTE70_CMD2 = "/panic";
+EMOTE70_CMD1 = "/panic";
+
+EMOTE71_CMD2 = "/peer";
+EMOTE71_CMD1 = "/peer";
+
+EMOTE72_CMD2 = "/plead";
+EMOTE72_CMD1 = "/plead";
+
+EMOTE73_CMD2 = "/point";
+EMOTE73_CMD1 = "/point";
+
+EMOTE74_CMD2 = "/poke";
+EMOTE74_CMD1 = "/poke";
+
+EMOTE75_CMD2 = "/pray";
+EMOTE75_CMD1 = "/pray";
+
+EMOTE76_CMD2 = "/roar";
+EMOTE76_CMD1 = "/roar";
+
+EMOTE77_CMD2 = "/rofl";
+EMOTE77_CMD1 = "/rofl";
+
+EMOTE78_CMD2 = "/rude";
+EMOTE78_CMD1 = "/rude";
+
+EMOTE79_CMD2 = "/salute";
+EMOTE79_CMD1 = "/salute";
+
+EMOTE80_CMD4 = "/scratch";
+EMOTE80_CMD3 = "/catty";
+EMOTE80_CMD2 = "/cat";
+EMOTE80_CMD5 = "/cat";
+EMOTE80_CMD6 = "/catty";
+EMOTE80_CMD1 = "/scratch";
+
+EMOTE81_CMD2 = "/sexy";
+EMOTE81_CMD1 = "/sexy";
+
+EMOTE82_CMD3 = "/shake";
+EMOTE82_CMD4 = "/rear";
+EMOTE82_CMD1 = "/shake";
+EMOTE82_CMD2 = "/rear";
+
+EMOTE83_CMD1 = "/shout";
+
+EMOTE84_CMD2 = "/shrug";
+EMOTE84_CMD1 = "/shrug";
+
+EMOTE85_CMD2 = "/shy";
+EMOTE85_CMD1 = "/shy";
+
+EMOTE86_CMD2 = "/sigh";
+EMOTE86_CMD1 = "/sigh";
+
+EMOTE87_CMD2 = "/sit";
+EMOTE87_CMD1 = "/sit";
+
+EMOTE88_CMD2 = "/sleep";
+EMOTE88_CMD1 = "/sleep";
+
+EMOTE89_CMD2 = "/snarl";
+EMOTE89_CMD1 = "/snarl";
+
+EMOTE90_CMD2 = "/spit";
+EMOTE90_CMD1 = "/spit";
+
+EMOTE91_CMD2 = "/stare";
+EMOTE91_CMD1 = "/stare";
+
+EMOTE92_CMD2 = "/surprised";
+EMOTE92_CMD1 = "/surprised";
+
+EMOTE93_CMD2 = "/surrender";
+EMOTE93_CMD1 = "/surrender";
+
+EMOTE94_CMD2 = "/talk";
+EMOTE94_CMD1 = "/talk";
+
+EMOTE95_CMD4 = "/excited";
+EMOTE95_CMD3 = "/talkex";
+EMOTE95_CMD2 = "/excited";
+EMOTE95_CMD1 = "/talkex";
+
+EMOTE96_CMD4 = "/question";
+EMOTE96_CMD3 = "/talkq";
+EMOTE96_CMD2 = "/question";
+EMOTE96_CMD1 = "/talkq";
+
+EMOTE97_CMD2 = "/tap";
+EMOTE97_CMD1 = "/tap";
+
+EMOTE98_CMD4 = "/thank";
+EMOTE98_CMD2 = "/thanks";
+EMOTE98_CMD1 = "/thank";
+EMOTE98_CMD5 = "/thanks";
+EMOTE98_CMD6 = "/ty";
+EMOTE98_CMD3 = "/ty";
+
+EMOTE99_CMD6 = "/doom";
+EMOTE99_CMD4 = "/wrath";
+EMOTE99_CMD3 = "/threat";
+EMOTE99_CMD2 = "/doom";
+EMOTE99_CMD5 = "/threaten";
+EMOTE99_CMD8 = "/wrath";
+EMOTE99_CMD7 = "/threat";
+EMOTE99_CMD1 = "/threaten";
+
+EMOTE100_CMD2 = "/tired";
+EMOTE100_CMD1 = "/tired";
+
+EMOTE101_CMD2 = "/victory";
+EMOTE101_CMD1 = "/victory";
+EMOTE101_CMD3 = "/victory";
+EMOTE101_CMD = "/victory";
+
+EMOTE102_CMD1 = "/wave";
+EMOTE102_CMD2 = "/wave";
+
+EMOTE103_CMD2 = "/welcome";
+EMOTE103_CMD1 = "/welcome";
+
+EMOTE104_CMD2 = "/whine";
+EMOTE104_CMD1 = "/whine";
+
+EMOTE105_CMD1 = "/whistle";
+EMOTE105_CMD2 = "/whistle";
+
+EMOTE106_CMD2 = "/work";
+EMOTE106_CMD1 = "/work";
+
+EMOTE107_CMD2 = "/yawn";
+EMOTE107_CMD3 = "/yawn";
+EMOTE107_CMD1 = "/yawn";
+
+EMOTE108_CMD2 = "/boggle";
+EMOTE108_CMD1 = "/boggle";
+
+EMOTE109_CMD2 = "/calm";
+EMOTE109_CMD3 = "/calm";
+EMOTE109_CMD1 = "/calm";
+
+EMOTE110_CMD1 = "/cold";
+EMOTE110_CMD2 = "/cold";
+
+EMOTE111_CMD2 = "/comfort";
+EMOTE111_CMD1 = "/comfort";
+
+EMOTE112_CMD2 = "/spoon";
+EMOTE112_CMD4 = "/spoon";
+EMOTE112_CMD1 = "/cuddle";
+EMOTE112_CMD3 = "/cuddle";
+
+EMOTE113_CMD2 = "/duck";
+EMOTE113_CMD1 = "/duck";
+
+EMOTE114_CMD3 = "/insult";
+EMOTE114_CMD2 = "/insult";
+EMOTE114_CMD1 = "/insult";
+
+EMOTE115_CMD2 = "/introduce";
+EMOTE115_CMD1 = "/introduce";
+
+EMOTE116_CMD2 = "/jk";
+EMOTE116_CMD1 = "/jk";
+
+EMOTE117_CMD2 = "/lick";
+EMOTE117_CMD1 = "/lick";
+
+EMOTE118_CMD2 = "/listen";
+EMOTE118_CMD1 = "/listen";
+
+EMOTE119_CMD2 = "/lost";
+EMOTE119_CMD1 = "/lost";
+
+EMOTE120_CMD2 = "/mock";
+EMOTE120_CMD1 = "/mock";
+
+EMOTE121_CMD2 = "/ponder";
+EMOTE121_CMD1 = "/ponder";
+
+EMOTE122_CMD2 = "/pounce";
+EMOTE122_CMD1 = "/pounce";
+
+EMOTE123_CMD3 = "/praise";
+EMOTE123_CMD1 = "/praise";
+EMOTE123_CMD4 = "/lavish";
+EMOTE123_CMD2 = "/lavish";
+
+EMOTE124_CMD2 = "/purr";
+EMOTE124_CMD1 = "/purr";
+
+EMOTE125_CMD2 = "/puzzled";
+EMOTE125_CMD1 = "/puzzled";
+
+EMOTE126_CMD4 = "/volunteer";
+EMOTE126_CMD1 = "/raise";
+EMOTE126_CMD2 = "/volunteer";
+EMOTE126_CMD3 = "/raise";
+
+EMOTE127_CMD3 = "/ready";
+EMOTE127_CMD4 = "/rdy";
+EMOTE127_CMD1 = "/ready";
+EMOTE127_CMD2 = "/rdy";
+
+EMOTE128_CMD2 = "/shimmy";
+EMOTE128_CMD1 = "/shimmy";
+
+EMOTE129_CMD2 = "/shiver";
+EMOTE129_CMD1 = "/shiver";
+
+EMOTE130_CMD3 = "/shoo";
+EMOTE130_CMD1 = "/shoo";
+EMOTE130_CMD2 = "/pest";
+EMOTE130_CMD4 = "/pest";
+
+EMOTE131_CMD2 = "/slap";
+EMOTE131_CMD1 = "/slap";
+
+EMOTE132_CMD1 = "/smirk";
+EMOTE132_CMD2 = "/smirk";
+
+EMOTE133_CMD2 = "/sniff";
+EMOTE133_CMD1 = "/sniff";
+
+EMOTE134_CMD2 = "/snub";
+EMOTE134_CMD1 = "/snub";
+
+EMOTE135_CMD2 = "/soothe";
+EMOTE135_CMD1 = "/soothe";
+
+EMOTE136_CMD3 = "/stink";
+EMOTE136_CMD2 = "/smell";
+EMOTE136_CMD1 = "/stink";
+EMOTE136_CMD4 = "/smell";
+
+EMOTE137_CMD1 = "/taunt";
+EMOTE137_CMD2 = "/taunt";
+
+EMOTE138_CMD2 = "/tease";
+EMOTE138_CMD1 = "/tease";
+
+EMOTE139_CMD2 = "/thirsty";
+EMOTE139_CMD1 = "/thirsty";
+
+EMOTE140_CMD2 = "/veto";
+EMOTE140_CMD1 = "/veto";
+
+EMOTE141_CMD2 = "/snicker";
+EMOTE141_CMD1 = "/snicker";
+
+EMOTE142_CMD2 = "/tickle";
+EMOTE142_CMD1 = "/tickle";
+
+EMOTE143_CMD2 = "/stand";
+EMOTE143_CMD1 = "/stand";
+
+EMOTE144_CMD2 = "/violin";
+EMOTE144_CMD1 = "/violin";
+
+EMOTE145_CMD2 = "/smile";
+EMOTE145_CMD1 = "/smile";
+
+EMOTE146_CMD1 = "/rasp";
+EMOTE146_CMD2 = "/rasp";
+
+EMOTE147_CMD1 = "/growl";
+EMOTE147_CMD2 = "/growl";
+
+EMOTE148_CMD1 = "/bark";
+EMOTE148_CMD2 = "/bark";
+
+EMOTE149_CMD2 = "/pity";
+EMOTE149_CMD1 = "/pity";
+
+EMOTE150_CMD2 = "/scared";
+EMOTE150_CMD1 = "/scared";
+
+EMOTE151_CMD2 = "/flop";
+EMOTE151_CMD1 = "/flop";
+
+EMOTE152_CMD2 = "/love";
+EMOTE152_CMD1 = "/love";
+
+EMOTE153_CMD2 = "/moo";
+EMOTE153_CMD1 = "/moo";
+
+EMOTE154_CMD1 = "/commend";
+EMOTE154_CMD2 = "/commend";
+
+EMOTE155_CMD1 = "/train";
+EMOTE155_CMD2 = "/train";
+
+EMOTE156_CMD1 = "/helpme";
+EMOTE156_CMD2 = "/helpme";
+
+EMOTE157_CMD1 = "/incoming";
+EMOTE157_CMD2 = "/incoming";
+
+EMOTE158_CMD1 = "/openfire";
+EMOTE158_CMD2 = "/openfire";
+
+EMOTE159_CMD1 = "/charge";
+EMOTE159_CMD2 = "/charge";
+
+EMOTE160_CMD1 = "/flee";
+EMOTE160_CMD2 = "/flee";
+
+EMOTE161_CMD1 = "/attacktarget";
+EMOTE161_CMD2 = "/attacktarget";
+
+EMOTE162_CMD1 = "/oom";
+EMOTE162_CMD2 = "/oom";
+
+EMOTE163_CMD1 = "/followme";
+EMOTE163_CMD2 = "/followme";
+
+EMOTE164_CMD1 = "/wait";
+EMOTE164_CMD2 = "/wait";
+
+EMOTE165_CMD1 = "/flirt";
+EMOTE165_CMD2 = "/flirt";
+
+EMOTE166_CMD1 = "/healme";
+EMOTE166_CMD2 = "/healme";
+
+EMOTE167_CMD1 = "/silly";
+EMOTE167_CMD2 = "/silly";
+
+EMOTE168_CMD1 = "/wink";
+EMOTE168_CMD2 = "/wink";
+
+EMOTE169_CMD1 = "/pat";
+EMOTE169_CMD2 = "/pat";
+
+EMOTE170_CMD1 = "/golfclap";
+EMOTE170_CMD2 = "/golfclap";
