@@ -23,7 +23,7 @@ EMOTE3_CMD2 = "/mad";
 EMOTE4_CMD1 = "/apologize";
 EMOTE4_CMD2 = "/sorry";
 
-EMOTE5_CMD1 = "/applaud";
+EMOTE5_CMD1 = "/applaud"; ✔ перевод
 EMOTE5_CMD2 = "/bravo";
 EMOTE5_CMD3 = "/applause";
 
@@ -31,7 +31,7 @@ EMOTE6_CMD1 = "/bashful";
 
 EMOTE7_CMD1 = "/beckon";
 
-EMOTE8_CMD1 = "/beg";
+EMOTE8_CMD1 = "/beg"; ✔ перевод
 
 EMOTE9_CMD1 = "/bite";
 
@@ -51,7 +51,7 @@ EMOTE15_CMD1 = "/bounce";
 
 EMOTE16_CMD1 = "/brb";
 
-EMOTE17_CMD1 = "/bow";
+EMOTE17_CMD1 = "/bow"; ✔ перевод
 
 EMOTE18_CMD1 = "/burp";
 EMOTE18_CMD2 = "/belch";
@@ -64,7 +64,7 @@ EMOTE20_CMD1 = "/cackle";
 
 EMOTE21_CMD1 = "/cheer";
 
-EMOTE22_CMD1 = "/chicken";
+EMOTE22_CMD1 = "/chicken"; ✔ перевод
 EMOTE22_CMD2 = "/flap";
 EMOTE22_CMD3 = "/strut";
 
@@ -90,7 +90,7 @@ EMOTE30_CMD2 = "/knuckles";
 
 EMOTE31_CMD1 = "/cringe";
 
-EMOTE32_CMD1 = "/cry";
+EMOTE32_CMD1 = "/cry"; ✔ перевод
 EMOTE32_CMD2 = "/sob";
 EMOTE32_CMD3 = "/weep";
 
@@ -98,7 +98,7 @@ EMOTE33_CMD1 = "/curious";
 
 EMOTE34_CMD1 = "/curtsey";
 
-EMOTE35_CMD1 = "/dance";
+EMOTE35_CMD1 = "/dance"; ✔ перевод
 
 EMOTE36_CMD1 = "/drink";
 EMOTE36_CMD2 = "/shindig";
