@@ -60,21 +60,124 @@
 
 ----------------------------------------------------------------------------------------------------
 
+"Improved Gouge"
+"Increases the effect duration of your Gouge ability by 0.5 sec."
 
+"Improved Sinister Strike"
+"Reduces the Energy cost of your Sinister Strike ability by 3."
 
+"Bitter Experience"
+"Increases your Dodge chance by 1% and all resistances by 8."
 
+"Improved Backstab"
+"Increases the critical strike chance of your Backstab ability by 10%."
 
+"Deflection"
+"Increases your Parry chance by 2%."
 
+"Precision"
+"Increases your chance to hit with melee weapons by 1%."
 
+"Improved Sprint"
+"Gives a 50% chance to remove all movement impairing effects when you activate your Sprint ability and increases it's duration by 3 sec."
 
+"Improved Kick"
+"Reduces the cost of your Kick by 10 Energy and gives it a 50% chance to silence the target for 4 sec."
 
+"Riposte"
+"A strike that becomes active after parrying an opponent's attack.  This attack deals 150% weapon damage and disarms the target for 6 sec."
 
+"Dual Wield Specialization"
+"Increases the damage done by your offhand weapon by 5%."
 
+"Close Quarters Combat"
+"Increases your chance to get a critical strike with Axe, Fist and Dagger weapons by 1%."
 
+"Steadfast Determination"
+"Increases your chance to resist Stun, Fear and Charm effects by an additional 7%."
 
+"Mace Specialization"
+"Causes your attacks with maces to ignore up to 120(scales with your level) of your target's Armor."
 
+"Sword Specialization"
+"Gives you a 1% chance to get an extra attack on the same target after dealing damage with your Sword."
 
+"Blade Flurry"
+"Your attacks strike an additional nearby opponent. Lasts 20 sec."
 
+"Physical Prowess"
+"Reduces the cooldown of your Sprint and Evasion abilities by 1 min and increases your Strength by 25% and Stamina by 5%."
 
+"Battle Rush"
+"Your auto attacks have 4% chance to regain 5 energy."
 
+"Weapon Expertise"
+"Increases your chance to parry and your attack speed by 3%."
 
+"Aggression"
+"Increases the damage of your Sinister Strike, Hemorrhage and Eviscerate abilities by 2%."
+
+"Adrenaline Rush"
+"You feeling the adrenaline, becoming immune to Fear and Incapacitate effects and increases your Energy regeneration rate by 100%. Lasts 15 sec."
+
+----------------------------------------------------------------------------------------------------
+
+"Improved Sap"
+"Gives you a 30% chance to return to stealth mode after using your Sap ability. In addition, reduces the Energy cost of your Sap ability by 10."
+
+"Master of Deception"
+"Reduces the chance enemies have to detect you while in Stealth mode."
+
+"Opportunity"
+"Increases the damage dealt when striking from behind with your Backstab, Garrote, or Ambush abilities by 4%."
+
+"Initiative"
+"Gives you a 30% chance to add an additional combo point to your target when using your Ambush, Garrote, or Cheap Shot ability."
+
+"Sleight of Hand"
+"Reduces the chance you are critically hit by melee and ranged attacks by 2% and increases the threat reduction of your Feint ability by 30%."
+
+"Thug Life"
+"Reduces the cooldown of your Distract and Disarm Trap by 10 sec and reduces cost of your Distract by 50%.\nAlso increases the amount of money you gain from pickpocketing by 20% and reputation gains by 5%."
+
+"Setup"
+"Gives you a 30% chance to add a combo point to your target after dodging their attack or fully resisting one of their spells."
+
+"Ghostly Strike"
+"A strike that deals 125% weapon damage and increases your chance to dodge meele attacks, to avoid ranged attacks or to resist offensive spells by 15% for 5 sec.  Awards 1 combo point."
+
+"Improved Ambush"
+"Increases the critical strike chance of your Ambush ability by 15%, and reduces the threat caused by it by 33%."
+
+"Camouflage"
+"Increases your speed while stealthed by 5% and reduces the cooldown of your Stealth ability by 1 sec."
+
+"Heightened Senses"
+"Increases your Stealth detection and reduces the chance you are hit by spells and ranged attacks by 3%."
+
+"Elusiveness"
+"Reduces the cooldown of your Evasion, Vanish, Blind and Cloak of Shadows by 1 min."
+
+"Serrated Blades"
+"Causes your attacks to ignore up to 100 of your target's Armor and increases the duration of your Garrote and Rupture abilities by 2 secs.  The amount of Armor reduced increases with your level."
+
+"Cloak of Shadows"
+"Protects the rogue from all spells for 5 sec.  Does not break stealth."
+
+"Dirty Deeds"
+"Reduces the Energy cost of your Cheap Shot and Garrote abilities by 10."
+
+"Hemorrhage"
+"An instant strike that damages the opponent and causes the target to hemorrhage, increasing any Physical damage dealt to the target by up to 7.  Lasts 30 charges or 15 sec.  Awards 1 combo point."
+
+"Brigandage"
+"Your auto attacks drains .3 per level amount of Mana from a target. For each mana drained in this way, the target takes 0.3 Shadow damage."
+
+"Deadliness"
+"Increases your Attack Power by 3%."
+
+"Enveloping Shadows"
+"Increases your chance to avoid area of effect spells by an additional 10%. While stealthed the effect is doubled."
+
+"Preparation"
+"When activated, this ability immediately finishes the cooldown on your other Rogue abilities."
