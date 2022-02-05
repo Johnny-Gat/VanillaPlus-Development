@@ -1,124 +1,156 @@
 "Improved Life Tap"
 "Increases the amount of Mana awarded by your Life Tap spell by 10%."
-
-
-
+"Улучшенный жизнеотвод"
+"Увеличение количества маны, полученной при использовании заклинания "Жизнеотвод" на 10%."
 
 "Jinx"
 "Increases the duration of your Curse of Exhaustion by 3 sec, the effect of your Curse of Weakness by 10% and the duration of your Curse of Weakness, Curse of Recklessness, Curse of Shadow and Curse of the Elements by 30 sec."
-
-
+"Дурной глаз"
+"Увеличивает время действия "Проклятия изнеможения" на 3 секунды, эффекта "Проклятия слабости" на 10% и времени действия "Проклятия слабости", "Проклятия безрассудства", "Проклятия тьмы" и "Проклятия стихий" на 30 секунд."
 
 "Improved Corruption"
 "Reduces the mana cost and threat caused by your Corruption spell by 6%."
-
+"Улучшенная порча"
+"Снижает затраты маны и угрозу, вызванную заклинанием Порчи, на 6%."
 
 "Fel Concentration"
 "Gives you a 14% chance to avoid interruption caused by damage while channeling the Drain Life, Drain Mana, or Drain Soul spell."
-
+"Сосредоточение Скверны"
+"С 14%-й вероятностью ваши "Похищение жизни", "Похищение маны" и "Похищение души" не прерываются при получении урона."
 
 "Suppression"
 "Increases the range of your Affliction spells by 5 yds and reduces the chance for enemies to resist your Affliction spells by 5%."
+"Подавление"
+"Увеличивает дальность действия ваших заклинаний Колдовства на 5 м. и снижает вероятность сопротивления противника вашим заклинаниям специализации "Колдовство" на 5%."
 
-	
-		[1] = "Improved Curse of Agony",
-		[3] = "Increases the damage done by your Curse of Agony by 2%.",
-	},
-	[7] = {
-		[1] = "Improved Drain",
-		[3] = "Increases the Health drained by your Drain Life spell by 5% and causes 15% of the Mana drained by your Drain Mana spell to damage the opponent.",
-	},
-	[8] = {
-		[1] = "Prolonged Misery",
-		[3] = "Increases the duration of your Corruption, Curse of Agony and Immolate spells by 3 sec.",
-	},
-	[9] = {
-		[1] = "Amplify Curse",
-		[3] = "Increases the effect of your next Curse by 50%.  Lasts 30 sec.",
-	},
-	[10] = {
-		[1] = "Improved Drain Soul",
-		[3] = "Reduces the cooldown of Drain Soul spell by 5 sec.\nAlso gives you a 50% chance to get a 100% increase to your Mana regeneration, that may continue to regenerate while casting at 50% of normal, for 10 sec if the target is killed by you while you drain its soul.",
-	},
-	[11] = {
-		[1] = "Nightfall",
-		[3] = "Your periodic Shadow damage have a 1% chance to cause you to enter a Shadow Trance state.\n\nThe Shadow Trance state reduces the casting time of your next Shadow Bolt spell by 100%.\nCan occur only once per 10 sec.",
-	},
-	[12] = {
-		[1] = "Herald of Woe",
-		[3] = "Decreases the cooldown of your Death and Decay, Amplify Curse and Death Coil spells by 30 sec.",
-	},
-	[13] = {
-		[1] = "Siphon Life",
-		[3] = "Transfers 15 health from the target to the caster every 3 sec.  Stacks up to 3 times and lasts for 30 sec.",
-	},
-	[14] = {
-		[1] = "Black Speech",
-		[3] = "Increases your chance to resist Silence and Interrupt effects by an additional 10%.",
-	},
-	[15] = {
-		[1] = "Death and Decay",
-		[3] = "Invokes the malignant power of death and decay, reducing the effectiveness of any healing by 20% and inflicting Shadow damage equal to your level to nearby enemies every 3 seconds for 30 sec.",
-	},
-	[16] = {
-		[1] = "Shadow Mastery",
-		[3] = "Increases the damage dealt or life drained by your Shadow spells by 2%.",
-	},
-	[17] = {
-		[1] = "Inevitable Doom",
-		[3] = "Gives your Affliction spells an additional 10% chance to resist dispel effects.\nAlso, reduces the threat caused and increases the damage of your Curse of Doom by 20%.",
-	},
-	[18] = {
-		[1] = "Bubonic Trail",
-		[3] = "Afflicts nearby enemies with a disease that causes Nature damage equal to 50% of your level every 4 sec. and slows their movement and attack speed by 5%. Lasts 12 sec.",
-	},
-	[19] = {
-		[1] = "Defiler",
-		[3] = "Reduces the time between periodic ticks of your Affliction spells by 20%.",
-	},
-	[20] = {
-		[1] = "Improved Imp",
-		[3] = "Increases the effect of your Imp's Firebolt, Fire Shield, and Blood Pact spells by 10%.",
-	},
-	[21] = {
-		[1] = "Improved Healthstone",
-		[3] = "Increases the amount of Health restored by your Healthstone by 10%.",
-	},
-	[22] = {
-		[1] = "Demonic Embrace",
-		[3] = "Increases your total Stamina by 2% but reduces your total Spirit by 1%.  In addition, gives your Shadow Ward a 6% chance to reflect Shadow spells and effects while active.",
-	},
-	[23] = {
-		[1] = "Improved Voidwalker",
-		[3] = "Increases the effectiveness of your Voidwalker's Torment, Consume Shadows, Sacrifice and Suffering spells by 10%.",
-	},
-	[24] = {
-		[1] = "Master Conjuror",
-		[3] = "Reduces the Mana cost and casting time of your Stone creation spells by 25% and increases the effectiveness of your Spellstones and Firestones by 20%.",
-	},
-	[25] = {
-		[1] = "Unholy Power",
-		[3] = "Increases the damage done by your Imp, Voidwalker, Succubus, and Felhunter by 3%.",
-	},
-	[26] = {
-		[1] = "Improved Health Funnel",
-		[3] = "Increases the effectiveness of your Health Funnel spell by 25%.",
-	},
-	[27] = {
-		[1] = "Improved Succubus",
-		[3] = "Increases the effect of your Succubus' Lash of Pain and Soothing Kiss spells by 10%, and increases the duration of your Succubus' Seduction and Lesser Invisibility spells by 10%.",
-	},
-	[28] = {
-		[1] = "Fel Domination",
-		[3] = "Your next Imp, Voidwalker, Succubus, or Felhunter Summon spell has its casting time reduced by 4 sec and its Mana cost reduced by 40%. In addition, reduces the casting time of your next Enslave Demon spell by up to 3 sec.",
-	},
-	[29] = {
-		[1] = "Demonic Onslaught",
-		[3] = "Increases the melee and spell critical strike chance of your Imp, Voidwalker, Succubus, and Felhunter by 4%.",
-	},
-	[30] = {
-		[1] = "Damned Vanguard",
-		[3] = "Decreases damage taken by your demons by 10% and increases threat generated by them by 10%.",
+"Improved Curse of Agony"
+"Increases the damage done by your Curse of Agony by 2%."
+"Улучшенное проклятие агонии"
+"Увеличение урона, нанесенного заклинанием "Проклятие агонии", на 2%."
+
+"Improved Drain"
+"Increases the Health drained by your Drain Life spell by 5% and causes 15% of the Mana drained by your Drain Mana spell to damage the opponent."
+"Улучшеное осушение"
+"Увеличивает здоровье, похищаемое заклинанием «Похищение жизни» на 5%, и заставляет 15% маны похищаемой заклинанием «Похищение маны» наносить урон противнику."
+
+"Prolonged Misery"
+"Increases the duration of your Corruption, Curse of Agony and Immolate spells by 3 sec."
+"Длительное страдание"
+"Увеличивает продолжительность заклинаний «Порча», «Проклятие агонии» и «Жертвенный огонь» на 3 секунды."
+
+"Amplify Curse"
+"Increases the effect of your next Curse by 50%.  Lasts 30 sec."
+"Усиление проклятия"
+"Увеличивает эффект следующего заклинания Проклятия 50%. Время действия 30 секунд."
+
+"Improved Drain Soul"
+"Reduces the cooldown of Drain Soul spell by 5 sec.\nAlso gives you a 50% chance to get a 100% increase to your Mana regeneration, that may continue to regenerate while casting at 50% of normal, for 10 sec if the target is killed by you while you drain its soul."
+"Улучшенное похищение души"
+"Сокращает время восстановления заклинания «Похищение души» на 5 сек. А так же, если ваша цель погибает пока вы похищаете ее душу, с вероятностью 50% ваша скорость восполнения маны будет повышена на 100% в течение 10 sec. Кроме того, во время произнесения заклинаний вы продолжаете восполнять ману со скоростью 50% от нормальной."
+
+"Nightfall"
+"Your periodic Shadow damage have a 1% chance to cause you to enter a Shadow Trance state.\n\nThe Shadow Trance state reduces the casting time of your next Shadow Bolt spell by 100%.\nCan occur only once per 10 sec."
+"Сумерки"
+"Ваш периодический урон темной магии с вероятностью 1% может ввести вас в состояние "Теневого транса". "Теневой транс" сокращает время применения следующей "Стрелы Тьмы" на 100%. Может происходить только один раз в 10 сек."
+
+"Herald of Woe"
+"Decreases the cooldown of your Death and Decay, Amplify Curse and Death Coil spells by 30 sec."
+"Вестник горя"
+"Уменьшает время восстановления заклинаний «Смерть и разложение», «Усиление проклятия» и «Лик смерти» на 30 сек."
+
+"Siphon Life"
+"Transfers 15 health from the target to the caster every 3 sec.  Stacks up to 3 times and lasts for 30 sec."
+"Вытягивание жизни"
+"Передача 15 ед. здоровья от цели к заклинателю раз в 3 сек. Время действия – 30 сек."
+
+"Black Speech"
+"Increases your chance to resist Silence and Interrupt effects by an additional 10%."
+"Черная речь"
+"Увеличивает ваш шанс сопротивления эффектам немоты и прерывания заклинаний на дополнительные 10%."
+
+"Death and Decay"
+"Invokes the malignant power of death and decay, reducing the effectiveness of any healing by 20% and inflicting Shadow damage equal to your level to nearby enemies every 3 seconds for 30 sec."
+"Смерть и разложение"
+"Призывает пагубную силу смерти и розложения, снижая эффективность любого исцеления на 20% и нанося ближайшим противникам урон от темной магии, равный вашему уровню, каждые 3 секунды в течение 30 сек."
+
+"Shadow Mastery"
+"Increases the damage dealt or life drained by your Shadow spells by 2%."
+"Власть над тенями"
+"Увеличивает урон наносимый вашими заклинаниями тьмы или количество жизни, опустошаемое вашими заклинаниями тьмы, на 2%."
+
+"Inevitable Doom"
+"Gives your Affliction spells an additional 10% chance to resist dispel effects.\nAlso, reduces the threat caused and increases the damage of your Curse of Doom by 20%."
+"Неотвратимый рок"
+"Дает вашим заклинаниям колдовства дополнительный 10%-й шанс сопротивления к эффектам рассеивания. А также снижает вызываемую угрозу и увеличивает урон от вашего "Проклятия рока" на 20%."
+
+"Bubonic Trail"
+"Afflicts nearby enemies with a disease that causes Nature damage equal to 50% of your level every 4 sec. and slows their movement and attack speed by 5%. Lasts 12 sec."
+"Бубонная чума"
+"Поражает ближайших противников болезнью, которая наносит урон от сил природы, равный 50% от вашего уровня, каждые 4 секунды и замедляет их скорость передвижения и атаки на 5%. Длится 12 сек."
+
+"Defiler"
+"Reduces the time between periodic ticks of your Affliction spells by 20%."
+"Осквернитель"
+"Сокращает время между периодическими тиками заклинаний Колдовства на 20%."
+
+----------------------------------------------------------------------------------------------------
+
+"Improved Imp"
+"Increases the effect of your Imp's Firebolt, Fire Shield, and Blood Pact spells by 10%."
+"Улучшенный бес"
+"Увеличение эффективности применения бесом заклинаний "Огненная стрела", "Огненный щит" и "Кровавый союз" на 10%."
+
+"Improved Healthstone"
+"Increases the amount of Health restored by your Healthstone by 10%."
+"Улучшенный камень здоровья"
+"Усиливает исцеление от камня здоровья на 10%."
+
+"Demonic Embrace"
+"Increases your total Stamina by 2% but reduces your total Spirit by 1%.  In addition, gives your Shadow Ward a 6% chance to reflect Shadow spells and effects while active."
+"Демоническое облачение"
+"Увеличивает общую выносливость на 2%, но уменьшает ваш общий дух на 1%. Кроме того, "Защита от темной магии" с вероятностью 6% отражает заклинания и эффекты тьмы, пока она активна."
+
+"Improved Voidwalker"
+"Increases the effectiveness of your Voidwalker's Torment, Consume Shadows, Sacrifice and Suffering spells by 10%."
+"Улучшенный демон бездны"
+"Повышает эффективность "Мучения", "Поглощения теней", "Жертвоприношения" и "Мук" демона бездны на 10%."
+
+"Master Conjuror"
+"Reduces the Mana cost and casting time of your Stone creation spells by 25% and increases the effectiveness of your Spellstones and Firestones by 20%."
+"Мастер кудесник"
+"Снижает затраты маны и время произнесения ваших заклинаний создания камней на 25% и повышает эффективность "Камня чар" и "Камня огня" на 20%."
+
+"Unholy Power"
+"Increases the damage done by your Imp, Voidwalker, Succubus, and Felhunter by 3%."
+"Нечестивая сила"
+"Увеличивает урон Беса, демона Бездны, Суккуба и охотника Скверны на 3%."
+
+"Improved Health Funnel"
+"Increases the effectiveness of your Health Funnel spell by 25%."
+"Улучшенный канал здоровья"
+"Увеличение количества здоровья, передаваемого заклинанием "Канал здоровья" на 25%."
+
+"Improved Succubus"
+"Increases the effect of your Succubus' Lash of Pain and Soothing Kiss spells by 10%, and increases the duration of your Succubus' Seduction and Lesser Invisibility spells by 10%."
+"Улучшенный суккуб"
+"Увеличение эффекта от заклинаний суккуба "Всплеск боли" и "Утешительный поцелуй" на 10%, а также увеличение длительности заклинаний суккуба "Соблазнение" и "Малая невидимость" на 10%."
+
+"Fel Domination"
+"Your next Imp, Voidwalker, Succubus, or Felhunter Summon spell has its casting time reduced by 4 sec and its Mana cost reduced by 40%. In addition, reduces the casting time of your next Enslave Demon spell by up to 3 sec."
+"Господство Скверны"
+"Время произнесения следующего заклинания "Призыв Беса", "Призыв демона Бездны", "Призыв суккуба" или "Призыв охотника Скверны" сокращается на 4 секунды, а затраты маны на него уменьшаются на 40%. Кроме того, сокращает время произнесения следующего заклинания "Порабощение демона" на 3 секунды."
+
+"Demonic Onslaught"
+"Increases the melee and spell critical strike chance of your Imp, Voidwalker, Succubus, and Felhunter by 4%."
+"Демонический натиск"
+"Увеличивает шанс критического удара и заклинания беса, демона Бездны, суккуба и охотника Скверны на 4%."
+
+"Damned Vanguard"
+"Decreases damage taken by your demons by 10% and increases threat generated by them by 10%."
+"Проклятый авангард"
+"Уменьшает урон, получаемый вашими демонами, на 10% и увеличивает создаваемую ими угрозу на 10%."
+		
+		
 	},
 	[31] = {
 		[1] = "Fel Intellect",
