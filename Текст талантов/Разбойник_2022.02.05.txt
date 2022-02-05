@@ -1,0 +1,80 @@
+"Improved Eviscerate"
+"Increases the damage done by your Eviscerate ability by 5%."
+
+"Remorseless Attacks"
+"After killing an opponent that yields experience or honor, gives you a 20% increased critical strike chance on your next Sinister Strike, Backstab, Ambush, or Ghostly Strike.  Lasts 30 sec."
+
+"Malice"
+"Increases your critical strike chance by 1%."
+
+"Ruthlessness"
+"Gives your finishing moves a 30% chance to add a combo point to your target."
+
+"Seek and Destroy"
+"Your Detection ability now shows the location of all nearby humanoids on the minimap.\nAlso increases movement and mounted movement speed by 5%.  This does not stack with other movement speed increasing effects."
+
+"Exhaustion"
+"Increases the duration of your Slice and Dice, Rupture and Expose Armor abilities by 25%."
+
+"Relentless Strikes"
+"Your finishing moves have a 20% chance per combo point to restore 35 energy."
+
+"Lethality"
+"Increases the critical strike damage bonus of your Sinister Strike, Gouge, Backstab, Ambush, Ghostly Strike, and Hemorrhage abilities by 5%."
+
+"Improved Poisons"
+"Increases the chance to apply poisons to your target by 2%."
+
+"Vile Poisons"
+"Increases the effectiveness of your poisons by 5% and gives your poisons an additional 10% chance to resist dispel effects."
+
+"Death Mark"
+"Your Ambush, Garrote and Cheap Shot marks the target. Marked enemy can always be seen by the rogue whether it stealths or turns invisible, the target also appears on the mini-map and cannot flee or move faster than his normal movement speed.\nThis effect lasts 10 sec and can only occur once every 60 sec."
+
+"Bloodthirsty"
+"Increases the damage dealt by your Garrote and Rupture abilities by 10%."
+
+"Vitality"
+"Allows 5% of your Health regeneration to work while in combat. In addition, healing taken increased by 10%."
+
+"Cold Blood"
+"When activated, increases the critical strike chance of your next Sinister Strike, Backstab, Ambush, or Eviscerate by 100%."
+
+"Improved Kidney Shot"
+"While affected by your Kidney Shot ability, the target receives an additional 3% damage from all sources. In addition, decreases the cooldown of your Kidney Shot ability by 5 sec."
+
+"Total Control"
+"Increases the duration of your control effects by 0.5 sec."
+
+"Seal Fate"
+"Your critical strikes from abilities that add combo points  have a 20% chance to add an additional combo point."
+
+"Cold Blooded"
+"Increases the critical strike chance of your Sinister Strike, Gouge, Backstab, Ambush, Ghostly Strike, Hemorrhage and Eviscerate abilities by 3%."
+
+"Gaining an Advantage"
+"Your auto attacks have a 20% chance to reduce the target's Stats by 1% and increase your Agility by 1%. Lasts 15 sec, stacks up to 30 times."
+
+"Vigor"
+"Increases your maximum Energy by 10 and increases your Energy regeneration by 5 per tick."
+
+----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
