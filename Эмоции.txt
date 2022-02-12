@@ -274,216 +274,215 @@ Testerushka farts loudly.  Whew...what stinks?
 Testerushka brushes up against you and farts loudly.
 Testerushka brushes up against Rabbit and farts loudly.
 
-41
+41 / fidget / impatient
 You fidget.
 You fidget impatiently while waiting for Rabbit.
-[2] = "Testerushka fidgets.
-[2] = "Testerushka fidgets impatiently while waiting for you.
-[2] = "Testerushka fidgets impatiently while waiting for Rabbit.
+Testerushka fidgets.
+Testerushka fidgets impatiently while waiting for you.
+Testerushka fidgets impatiently while waiting for Rabbit.
 
-42
+42 / flex / strong
 You flex your muscles.  Oooooh so strong!
 You flex at Rabbit.  Oooooh so strong!
-[2] = "Testerushka flexes her muscles.  Oooooh so strong!
-[2] = "Testerushka flexes at you.  Oooooh so strong!
-[2] = "Testerushka flexes at Rabbit.  Oooooh so strong!
+Testerushka flexes her muscles.  Oooooh so strong!
+Testerushka flexes at you.  Oooooh so strong!
+Testerushka flexes at Rabbit.  Oooooh so strong!
 
-43
+43 / frown / disappointed / disappointment
 You frown.
 You frown with disappointment at Rabbit.
-[2] = "Testerushka frowns.",
-[2] = "Testerushka frowns with disappointment at you.",
-[2] = "Testerushka frowns with disappointment at Rabbit.",
+Testerushka frowns.
+Testerushka frowns with disappointment at you.
+Testerushka frowns with disappointment at Rabbit.
 
-44
+44 / gasp
 You gasp.
 You gasp at Rabbit.
-[2] = "Testerushka gasps.",
-[2] = "Testerushka gasps at you.",
-[2] = "Testerushka gasps at Rabbit.",
+Testerushka gasps.
+Testerushka gasps at you.
+Testerushka gasps at Rabbit.
 
-45
+45 / gaze
 You gaze off into the distance.
 You gaze eagerly at Rabbit.
-[2] = "Testerushka gazes off into the distance.",
-[2] = "Testerushka gazes eagerly at you.",
-[2] = "Testerushka gazes eagerly at Rabbit.",
+Testerushka gazes off into the distance.
+Testerushka gazes eagerly at you.
+Testerushka gazes eagerly at Rabbit.
 
-46
+46 / giggle
 You giggle.
 You giggle at Rabbit.
-[2] = "Testerushka giggles.",
-[2] = "Testerushka giggles at you.",
-[2] = "Testerushka giggles at Rabbit.",
+Testerushka giggles.
+Testerushka giggles at you.
+Testerushka giggles at Rabbit.
 
-47
+47 / glare
 You glare angrily.
 You glare angrily at Rabbit.
-[2] = "Testerushka glares angrily.",
-[2] = "Testerushka glares angrily at you.",
-[2] = "Testerushka glares angrily at Rabbit.",
+Testerushka glares angrily.
+Testerushka glares angrily at you.
+Testerushka glares angrily at Rabbit.
 
-48
+48 / gloat
 You gloat over everyone's misfortune.
 You gloat over Rabbit's misfortune.
-[2] = "Testerushka gloats over everyone's misfortune.",
-[2] = "Testerushka gloats over your misfortune.",
-[2] = "Testerushka gloats over Rabbit's misfortune.",
+Testerushka gloats over everyone's misfortune.
+Testerushka gloats over your misfortune.
+Testerushka gloats over Rabbit's misfortune.
 
-49
+49 / greet / greetings
 You greet everyone warmly.
 You greet Rabbit warmly.
-[2] = "Testerushka greets everyone warmly.",
-[2] = "Testerushka greets you warmly.",
-[2] = "Testerushka greets Rabbit warmly.",
+Testerushka greets everyone warmly.
+Testerushka greets you warmly.
+Testerushka greets Rabbit warmly.
 
-50
+50 / grin / wicked / wickedly
 You grin wickedly.
 You grin wickedly at Rabbit.
-[2] = "Testerushka grins wickedly.",
-[2] = "Testerushka grins at you wickedly.",
-[2] = "Testerushka grins wickedly at Rabbit.",
+Testerushka grins wickedly.
+Testerushka grins at you wickedly.
+Testerushka grins wickedly at Rabbit.
 
-51
+51 / groan
 You begin to groan.
 You look at Rabbit and groan.
-[2] = "Testerushka begins to groan.",
-[2] = "Testerushka looks at you and groans.",
-[2] = "Testerushka looks at Rabbit and groans.",
+Testerushka begins to groan.
+Testerushka looks at you and groans.
+Testerushka looks at Rabbit and groans.
 
-52
+52 / grovel / peon
 You grovel on the ground, wallowing in subservience.
 You grovel before Rabbit like a subservient peon.
-[2] = "Testerushka grovels on the ground, wallowing in subservience.",
-[2] = "Testerushka grovels before you like a subservient peon.",
-[2] = "Testerushka grovels before Rabbit like a subservient peon.",
+Testerushka grovels on the ground, wallowing in subservience.
+Testerushka grovels before you like a subservient peon.
+Testerushka grovels before Rabbit like a subservient peon.
 
-53
+53 / guffaw
 You let out a boisterous guffaw!
 You take one look at Rabbit and let out a guffaw!
-[2] = "Testerushka lets out a boisterous guffaw!",
-[2] = "Testerushka takes one look at you and lets out a guffaw!",
-[2] = "Testerushka takes one look at Rabbit and lets out a guffaw!",
+Testerushka lets out a boisterous guffaw!
+Testerushka takes one look at you and lets out a guffaw!
+Testerushka takes one look at Rabbit and lets out a guffaw!
 
-54
+54 / hail
 You hail those around you.
 You hail Rabbit.
-[2] = "Testerushka hails everyone around her.",
-[2] = "Testerushka hails you.",
-[2] = "Testerushka hails Rabbit.",
+Testerushka hails everyone around her.
+Testerushka hails you.
+Testerushka hails Rabbit.
 
-55
+55 / happy / glad / yay
 You are filled with happiness!
 You are very happy with Rabbit!
-[2] = "Testerushka is filled with happiness!",
-[2] = "Testerushka is very happy with you!",
-[2] = "Testerushka is very happy with Rabbit!",
+Testerushka is filled with happiness!
+Testerushka is very happy with you!
+Testerushka is very happy with Rabbit!
 
-56
+56 / hello / hi
 You greet everyone with a hearty hello!
 You greet Rabbit with a hearty hello!
-[2] = "Testerushka greets everyone with a hearty hello!",
-[2] = "Testerushka greets you with a hearty hello!",
-[2] = "Testerushka greets Rabbit with a hearty hello!",
+Testerushka greets everyone with a hearty hello!
+Testerushka greets you with a hearty hello!
+Testerushka greets Rabbit with a hearty hello!
 
-57
+57 / hug
 You need a hug!
 You hug Rabbit.
-[2] = "Testerushka needs a hug!",
-[2] = "Testerushka hugs you.",
-[2] = "Testerushka hugs Rabbit.",
+Testerushka needs a hug!
+Testerushka hugs you.
+Testerushka hugs Rabbit.
 
-58
+58 / hungry / food / pizza
 You are hungry!
 You are hungry.  Maybe Rabbit has some food...
-[2] = "Testerushka is hungry!",
-[2] = "Testerushka is hungry.  Maybe you have some food...",
-[2] = "Testerushka is hungry.  Maybe Rabbit has some food...",
+Testerushka is hungry!
+Testerushka is hungry.  Maybe you have some food...
+Testerushka is hungry.  Maybe Rabbit has some food...
 
-59
+59 / kiss / blow
 You blow a kiss into the wind.
 You blow a kiss to Rabbit.
-[2] = "Testerushka blows a kiss into the wind.",
-[2] = "Testerushka blows you a kiss.",
-[2] = "Testerushka blows Rabbit a kiss.",
+Testerushka blows a kiss into the wind.
+Testerushka blows you a kiss.
+Testerushka blows Rabbit a kiss.
 
-
-60
+60 / kneel
 You kneel down.
 You kneel before Rabbit.
-[2] = "Testerushka kneels down.",
-[2] = "Testerushka kneels before you.",
-[2] = "Testerushka kneels before Rabbit.",
+Testerushka kneels down.
+Testerushka kneels before you.
+Testerushka kneels before Rabbit.
 
-61
+61 / laugh / lol
 You laugh.
 You laugh at Rabbit.
-[2] = "Testerushka laughs.",
-[2] = "Testerushka laughs at you.",
-[2] = "Testerushka laughs at Rabbit.",
+Testerushka laughs.
+Testerushka laughs at you.
+Testerushka laughs at Rabbit.
 
-62
+62 / laydown / liedown / lay / lie
 You lie down.
 You lie down before Rabbit.
-[2] = "Testerushka lies down.",
-[2] = "Testerushka lies down before you.",
-[2] = "Testerushka lies down before Rabbit.",
+Testerushka lies down.
+Testerushka lies down before you.
+Testerushka lies down before Rabbit.
 
-63
+63 / massage
 You need a massage!
 You massage Rabbit's shoulders.
-[2] = "Testerushka needs a massage!",
-[2] = "Testerushka massages your shoulders.",
-[2] = "Testerushka massages Rabbit's shoulders.",
+Testerushka needs a massage!
+Testerushka massages your shoulders.
+Testerushka massages Rabbit's shoulders.
 
-64
+64 / moan
 You moan suggestively.
 You moan suggestively at Rabbit.
-[2] = "Testerushka moans suggestively.",
-[2] = "Testerushka moans suggestively at you.",
-[2] = "Testerushka moans suggestively at Rabbit.",
+Testerushka moans suggestively.
+Testerushka moans suggestively at you.
+Testerushka moans suggestively at Rabbit.
 
-65
+65 / moon
 You drop your trousers and moon everyone.
 You drop your trousers and moon Rabbit.
-[2] = "Testerushka drops her trousers and moons everyone.",
-[2] = "Testerushka drops her trousers and moons you.",
-[2] = "Testerushka drops her trousers and moons Rabbit.",
+Testerushka drops her trousers and moons everyone.
+Testerushka drops her trousers and moons you.
+Testerushka drops her trousers and moons Rabbit.
 
-66
+66 / mourn
 In quiet contemplation, you mourn the loss of the dead.
 In quiet contemplation, you mourn the death of Rabbit.
-[2] = "In quiet contemplation, Testerushka mourns the loss of the dead.",
-[2] = "In quiet contemplation, Testerushka mourns your death.",
-[2] = "In quiet contemplation, Testerushka mourns the death of Rabbit.",
+In quiet contemplation, Testerushka mourns the loss of the dead.
+In quiet contemplation, Testerushka mourns your death.
+In quiet contemplation, Testerushka mourns the death of Rabbit.
 
-67
+67 / no
 You clearly state, NO.
 You tell Rabbit NO.  Not going to happen.
-[2] = "Testerushka clearly states, NO.",
-[2] = "Testerushka tells you NO.  Not going to happen.",
-[2] = "Testerushka tells Rabbit NO.  Not going to happen.",
+Testerushka clearly states, NO.
+Testerushka tells you NO.  Not going to happen.
+Testerushka tells Rabbit NO.  Not going to happen.
 
-68
+68 / nod / yes
 You nod.
 You nod at Rabbit.
-[2] = "Testerushka nods.",
-[2] = "Testerushka nods at you.",
-[2] = "Testerushka nods at Rabbit.",
+Testerushka nods.
+Testerushka nods at you.
+Testerushka nods at Rabbit.
 
-69
+69 / nosepick / pick
 With a finger deep in one nostril, you pass the time.
 You pick your nose and show it to Rabbit.
-[2] = "Testerushka passes the time with a finger deep in one nostril.",
-[2] = "Testerushka picks her nose and shows it to you.",
-[2] = "Testerushka picks her nose and shows it to Rabbit.",
+Testerushka passes the time with a finger deep in one nostril.
+Testerushka picks her nose and shows it to you.
+Testerushka picks her nose and shows it to Rabbit.
 
-70
+70 / panic
 You run around in a frenzied state of panic.
 You take one look at Rabbit and panic.
-[2] = "Testerushka runs around in a frenzied state of panic.",
-[2] = "Testerushka takes one look at you and panics.",
-[2] = "Testerushka takes one look at Rabbit and panics.",
+Testerushka runs around in a frenzied state of panic.
+Testerushka takes one look at you and panics.
+Testerushka takes one look at Rabbit and panics.
 
 [1] = "71",
 [2] = "You peer around, searchingly.",
