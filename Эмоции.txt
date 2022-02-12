@@ -245,787 +245,503 @@ You grin wickedly.
 You grin wickedly at Rabbit.
 
 
+51
+You begin to groan.
+You look at Rabbit and groan.
+
+
+52
+You grovel on the ground, wallowing in subservience.
+You grovel before Rabbit like a subservient peon.
+
+
+53
+You let out a boisterous guffaw!
+You take one look at Rabbit and let out a guffaw!
+
+
+54
+You hail those around you.
+You hail Rabbit.
+
+
+55
+You are filled with happiness!
+You are very happy with Rabbit!
+
+
+56
+You greet everyone with a hearty hello!
+You greet Rabbit with a hearty hello!
+
+
+57
+You need a hug!
+You hug Rabbit.
+
+
+58
+You are hungry!
+You are hungry.  Maybe Rabbit has some food...
+
+
+59
+You blow a kiss into the wind.
+You blow a kiss to Rabbit.
+
+
+60
+You kneel down.
+You kneel before Rabbit.
 
 
 
 
 
-	[99] = {
-		[1] = "51",
-		[2] = "You begin to groan.",
-	},
-	[100] = {
-		[1] = "51",
-		[2] = "You look at Rabbit and groan.",
-	},
-	[101] = {
-		[1] = "52",
-		[2] = "You grovel on the ground, wallowing in subservience.",
-	},
-	[102] = {
-		[1] = "52",
-		[2] = "You grovel before Rabbit like a subservient peon.",
-	},
-	[103] = {
-		[1] = "53",
-		[2] = "You let out a boisterous guffaw!",
-	},
-	[104] = {
-		[1] = "53",
-		[2] = "You take one look at Rabbit and let out a guffaw!",
-	},
-	[105] = {
-		[1] = "54",
-		[2] = "You hail those around you.",
-	},
-	[106] = {
-		[1] = "54",
-		[2] = "You hail Rabbit.",
-	},
-	[107] = {
-		[1] = "55",
-		[2] = "You are filled with happiness!",
-	},
-	[108] = {
-		[1] = "55",
-		[2] = "You are very happy with Rabbit!",
-	},
-	[109] = {
-		[1] = "56",
-		[2] = "You greet everyone with a hearty hello!",
-	},
-	[110] = {
-		[1] = "56",
-		[2] = "You greet Rabbit with a hearty hello!",
-	},
-	[111] = {
-		[1] = "57",
-		[2] = "You need a hug!",
-	},
-	[112] = {
-		[1] = "57",
-		[2] = "You hug Rabbit.",
-	},
-	[113] = {
-		[1] = "58",
-		[2] = "You are hungry!",
-	},
-	[114] = {
-		[1] = "58",
-		[2] = "You are hungry.  Maybe Rabbit has some food...",
-	},
-	[115] = {
-		[1] = "59",
-		[2] = "You blow a kiss into the wind.",
-	},
-	[116] = {
-		[1] = "59",
-		[2] = "You blow a kiss to Rabbit.",
-	},
-	[117] = {
-		[1] = "60",
-		[2] = "You kneel down.",
-	},
-	[118] = {
-		[1] = "60",
-		[2] = "You kneel before Rabbit.",
-	},
-	[119] = {
-		[1] = "81",
-		[2] = "You're too sexy for your tunic...so sexy it hurts.",
-	},
-	[120] = {
-		[1] = "81",
-		[2] = "You think Rabbit is a sexy devil.",
-	},
-	[121] = {
-		[1] = "82",
-		[2] = "You shake your rear.",
-	},
-	[122] = {
-		[1] = "82",
-		[2] = "You shake your rear at Rabbit.",
-	},
-	[123] = {
-		[1] = "83",
-		[2] = "You shout.",
-	},
-	[124] = {
-		[1] = "83",
-		[2] = "You shout at Rabbit.",
-	},
-	[125] = {
-		[1] = "84",
-		[2] = "You shrug.  Who knows?",
-	},
-	[126] = {
-		[1] = "84",
-		[2] = "You shrug at Rabbit.  Who knows?",
-	},
-	[127] = {
-		[1] = "85",
-		[2] = "You smile shyly.",
-	},
-	[128] = {
-		[1] = "85",
-		[2] = "You smile shyly at Rabbit.",
-	},
-	[129] = {
-		[1] = "86",
-		[2] = "You let out a long, drawn-out sigh.",
-	},
-	[130] = {
-		[1] = "86",
-		[2] = "You sigh at Rabbit.",
-	},
-	[131] = {
-		[1] = "88",
-		[2] = "You fall asleep.  Zzzzzzz.",
-	},
-	[132] = {
-		[1] = "88",
-		[2] = "You fall asleep.  Zzzzzzz.",
-	},
-	[133] = {
-		[1] = "89",
-		[2] = "You bare your teeth and snarl.",
-	},
-	[134] = {
-		[1] = "89",
-		[2] = "You bare your teeth and snarl at Rabbit.",
-	},
-	[135] = {
-		[1] = "90",
-		[2] = "You spit on the ground.",
-	},
-	[136] = {
-		[1] = "90",
-		[2] = "You spit on Rabbit.",
-	},
-	[137] = {
-		[1] = "91",
-		[2] = "You stare off into the distance.",
-	},
-	[138] = {
-		[1] = "91",
-		[2] = "You stare Rabbit down.",
-	},
-	[139] = {
-		[1] = "92",
-		[2] = "You are so surprised!",
-	},
-	[140] = {
-		[1] = "92",
-		[2] = "You are surprised by Rabbit's actions.",
-	},
-	[141] = {
-		[1] = "93",
-		[2] = "You surrender to your opponents.",
-	},
-	[142] = {
-		[1] = "93",
-		[2] = "You surrender before Rabbit.  Such is the agony of defeat...",
-	},
-	[143] = {
-		[1] = "94",
-		[2] = "You talk to yourself since no one else seems interested.",
-	},
-	[144] = {
-		[1] = "94",
-		[2] = "You want to talk things over with Rabbit.",
-	},
-	[145] = {
-		[1] = "95",
-		[2] = "You talk excitedly with everyone.",
-	},
-	[146] = {
-		[1] = "95",
-		[2] = "You talk excitedly with Rabbit.",
-	},
-	[147] = {
-		[1] = "96",
-		[2] = "You want to know the meaning of life.",
-	},
-	[148] = {
-		[1] = "96",
-		[2] = "You question Rabbit.",
-	},
-	[149] = {
-		[1] = "97",
-		[2] = "You tap your foot.  Hurry up already!",
-	},
-	[150] = {
-		[1] = "97",
-		[2] = "You tap your foot as you wait for Rabbit.",
-	},
-	[151] = {
-		[1] = "98",
-		[2] = "You thank everyone around you.",
-	},
-	[152] = {
-		[1] = "98",
-		[2] = "You thank Rabbit.",
-	},
-	[153] = {
-		[1] = "99",
-		[2] = "You threaten everyone with the wrath of doom.",
-	},
-	[154] = {
-		[1] = "99",
-		[2] = "You threaten Rabbit with the wrath of doom.",
-	},
-	[155] = {
-		[1] = "100",
-		[2] = "You let everyone know that you are tired.",
-	},
-	[156] = {
-		[1] = "100",
-		[2] = "You let Rabbit know that you are tired.",
-	},
-	[157] = {
-		[1] = "101",
-		[2] = "You bask in the glory of victory.",
-	},
-	[158] = {
-		[1] = "101",
-		[2] = "You bask in the glory of victory with Rabbit.",
-	},
-	[159] = {
-		[1] = "102",
-		[2] = "You wave.",
-	},
-	[160] = {
-		[1] = "102",
-		[2] = "You wave at Rabbit.",
-	},
-	[161] = {
-		[1] = "103",
-		[2] = "You welcome everyone.",
-	},
-	[162] = {
-		[1] = "103",
-		[2] = "You welcome Rabbit.",
-	},
-	[163] = {
-		[1] = "104",
-		[2] = "You whine pathetically.",
-	},
-	[164] = {
-		[1] = "104",
-		[2] = "You whine pathetically at Rabbit.",
-	},
-	[165] = {
-		[1] = "105",
-		[2] = "You let forth a sharp whistle.",
-	},
-	[166] = {
-		[1] = "105",
-		[2] = "You whistle at Rabbit.",
-	},
-	[167] = {
-		[1] = "106",
-		[2] = "You begin to work.",
-	},
-	[168] = {
-		[1] = "106",
-		[2] = "You work with Rabbit.",
-	},
-	[169] = {
-		[1] = "107",
-		[2] = "You yawn sleepily.",
-	},
-	[170] = {
-		[1] = "107",
-		[2] = "You yawn sleepily at Rabbit.",
-	},
-	[171] = {
-		[1] = "108",
-		[2] = "You boggle at the situation.",
-	},
-	[172] = {
-		[1] = "108",
-		[2] = "You boggle at Rabbit.",
-	},
-	[173] = {
-		[1] = "109",
-		[2] = "You remain calm.",
-	},
-	[174] = {
-		[1] = "109",
-		[2] = "You try to calm Rabbit down.",
-	},
-	[175] = {
-		[1] = "110",
-		[2] = "You let everyone know that you are cold.",
-	},
-	[176] = {
-		[1] = "110",
-		[2] = "You let Rabbit know that you are cold.",
-	},
-	[177] = {
-		[1] = "111",
-		[2] = "You need to be comforted.",
-	},
-	[178] = {
-		[1] = "111",
-		[2] = "You comfort Rabbit.",
-	},
-	[179] = {
-		[1] = "112",
-		[2] = "You need to be cuddled.",
-	},
-	[180] = {
-		[1] = "112",
-		[2] = "You cuddle up against Rabbit.",
-	},
-	[181] = {
-		[1] = "113",
-		[2] = "You duck for cover.",
-	},
-	[182] = {
-		[1] = "113",
-		[2] = "You duck behind Rabbit.",
-	},
-	[183] = {
-		[1] = "114",
-		[2] = "You think everyone around you is a son of a motherless ogre.",
-	},
-	[184] = {
-		[1] = "114",
-		[2] = "You think Rabbit is the son of a motherless ogre.",
-	},
-	[185] = {
-		[1] = "115",
-		[2] = "You introduce yourself to everyone.",
-	},
-	[186] = {
-		[1] = "115",
-		[2] = "You introduce yourself to Rabbit.",
-	},
-	[187] = {
-		[1] = "116",
-		[2] = "You were just kidding!",
-	},
-	[188] = {
-		[1] = "116",
-		[2] = "You let Rabbit know that you were just kidding!",
-	},
-	[189] = {
-		[1] = "117",
-		[2] = "You lick your lips.",
-	},
-	[190] = {
-		[1] = "117",
-		[2] = "You lick Rabbit.",
-	},
-	[191] = {
-		[1] = "118",
-		[2] = "You are listening!",
-	},
-	[192] = {
-		[1] = "118",
-		[2] = "You listen intently to Rabbit.",
-	},
-	[193] = {
-		[1] = "119",
-		[2] = "You are hopelessly lost.",
-	},
-	[194] = {
-		[1] = "119",
-		[2] = "You want Rabbit to know that you are hopelessly lost.",
-	},
-	[195] = {
-		[1] = "120",
-		[2] = "You mock life and all it stands for.",
-	},
-	[196] = {
-		[1] = "120",
-		[2] = "You mock the foolishness of Rabbit.",
-	},
-	[197] = {
-		[1] = "121",
-		[2] = "You ponder the situation.",
-	},
-	[198] = {
-		[1] = "121",
-		[2] = "You ponder Rabbit's actions.",
-	},
-	[199] = {
-		[1] = "122",
-		[2] = "You pounce out from the shadows.",
-	},
-	[200] = {
-		[1] = "122",
-		[2] = "You pounce on top of Rabbit.",
-	},
-	[201] = {
-		[1] = "123",
-		[2] = "You praise the Light.",
-	},
-	[202] = {
-		[1] = "123",
-		[2] = "You lavish praise upon Rabbit.",
-	},
-	[203] = {
-		[1] = "124",
-		[2] = "You purr like a kitten.",
-	},
-	[204] = {
-		[1] = "124",
-		[2] = "You purr at Rabbit.",
-	},
-	[205] = {
-		[1] = "125",
-		[2] = "You are puzzled. What's going on here?",
-	},
-	[206] = {
-		[1] = "125",
-		[2] = "You are puzzled by Rabbit.",
-	},
-	[207] = {
-		[1] = "126",
-		[2] = "You raise your hand in the air.",
-	},
-	[208] = {
-		[1] = "126",
-		[2] = "You look at Rabbit and raise your hand.",
-	},
-	[209] = {
-		[1] = "127",
-		[2] = "You let everyone know that you are ready!",
-	},
-	[210] = {
-		[1] = "127",
-		[2] = "You let Rabbit know that you are ready!",
-	},
-	[211] = {
-		[1] = "128",
-		[2] = "You shimmy before the masses.",
-	},
-	[212] = {
-		[1] = "128",
-		[2] = "You shimmy before Rabbit.",
-	},
-	[213] = {
-		[1] = "129",
-		[2] = "You shiver in your boots. Chilling!",
-	},
-	[214] = {
-		[1] = "129",
-		[2] = "You shiver beside Rabbit. Chilling!",
-	},
-	[215] = {
-		[1] = "130",
-		[2] = "You shoo the measly pests away.",
-	},
-	[216] = {
-		[1] = "130",
-		[2] = "You shoo Rabbit away. Be gone pest!",
-	},
-	[217] = {
-		[1] = "131",
-		[2] = "You slap yourself across the face. Ouch!",
-	},
-	[218] = {
-		[1] = "131",
-		[2] = "You slap Rabbit across the face. Ouch!",
-	},
-	[219] = {
-		[1] = "132",
-		[2] = "A sly smirk spreads across your face.",
-	},
-	[220] = {
-		[1] = "132",
-		[2] = "You smirk slyly at Rabbit.",
-	},
-	[221] = {
-		[1] = "133",
-		[2] = "You sniff the air around you.",
-	},
-	[222] = {
-		[1] = "133",
-		[2] = "You sniff Rabbit.",
-	},
-	[223] = {
-		[1] = "134",
-		[2] = "You snub all of the lowly peons around you.",
-	},
-	[224] = {
-		[1] = "134",
-		[2] = "You snub Rabbit.",
-	},
-	[225] = {
-		[1] = "135",
-		[2] = "You need to be soothed.",
-	},
-	[226] = {
-		[1] = "135",
-		[2] = "You soothe Rabbit. There, there...things will be ok.",
-	},
-	[227] = {
-		[1] = "136",
-		[2] = "You smell the air around you. Wow, someone stinks!",
-	},
-	[228] = {
-		[1] = "136",
-		[2] = "You smell Rabbit. Wow, someone stinks!",
-	},
-	[229] = {
-		[1] = "137",
-		[2] = "You taunt everyone around you. Bring it fools!",
-	},
-	[230] = {
-		[1] = "137",
-		[2] = "You make a taunting gesture at Rabbit. Bring it!",
-	},
-	[231] = {
-		[1] = "138",
-		[2] = "You are such a tease.",
-	},
-	[232] = {
-		[1] = "138",
-		[2] = "You tease Rabbit.",
-	},
-	[233] = {
-		[1] = "139",
-		[2] = "You are so thirsty. Can anyone spare a drink?",
-	},
-	[234] = {
-		[1] = "139",
-		[2] = "You let Rabbit know you are thirsty. Spare a drink?",
-	},
-	[235] = {
-		[1] = "140",
-		[2] = "You veto the motion on the floor.",
-	},
-	[236] = {
-		[1] = "140",
-		[2] = "You veto Rabbit's motion.",
-	},
-	[237] = {
-		[1] = "141",
-		[2] = "You quietly snicker to yourself.",
-	},
-	[238] = {
-		[1] = "141",
-		[2] = "You snicker at Rabbit.",
-	},
-	[239] = {
-		[1] = "142",
-		[2] = "You want to be tickled.  Hee hee!",
-	},
-	[240] = {
-		[1] = "142",
-		[2] = "You tickle Rabbit.  Hee hee!",
-	},
-	[241] = {
-		[1] = "144",
-		[2] = "You begin to play the world's smallest violin.",
-	},
-	[242] = {
-		[1] = "144",
-		[2] = "You play the world's smallest violin for Rabbit.",
-	},
-	[243] = {
-		[1] = "145",
-		[2] = "You smile.",
-	},
-	[244] = {
-		[1] = "145",
-		[2] = "You smile at Rabbit.",
-	},
-	[245] = {
-		[1] = "146",
-		[2] = "You make a rude gesture.",
-	},
-	[246] = {
-		[1] = "146",
-		[2] = "You make a rude gesture at Rabbit.",
-	},
-	[247] = {
-		[1] = "147",
-		[2] = "You growl menacingly.",
-	},
-	[248] = {
-		[1] = "147",
-		[2] = "You growl menacingly at Rabbit.",
-	},
-	[249] = {
-		[1] = "148",
-		[2] = "You bark. Woof woof!",
-	},
-	[250] = {
-		[1] = "148",
-		[2] = "You bark at Rabbit",
-	},
-	[251] = {
-		[1] = "149",
-		[2] = "You pity those around you.",
-	},
-	[252] = {
-		[1] = "149",
-		[2] = "You look down upon Rabbit with pity.",
-	},
-	[253] = {
-		[1] = "150",
-		[2] = "You are scared!",
-	},
-	[254] = {
-		[1] = "150",
-		[2] = "You are scared of Rabbit.",
-	},
-	[255] = {
-		[1] = "151",
-		[2] = "You flop about helplessly.",
-	},
-	[256] = {
-		[1] = "151",
-		[2] = "You flop about helplessly around Rabbit.",
-	},
-	[257] = {
-		[1] = "152",
-		[2] = "You feel the love.",
-	},
-	[258] = {
-		[1] = "152",
-		[2] = "You love Rabbit.",
-	},
-	[259] = {
-		[1] = "153",
-		[2] = "Mooooooooooo.",
-	},
-	[260] = {
-		[1] = "153",
-		[2] = "You moo at Rabbit. Mooooooooooo.",
-	},
-	[261] = {
-		[1] = "154",
-		[2] = "You commend everyone on a job well done.",
-	},
-	[262] = {
-		[1] = "154",
-		[2] = "You commend Rabbit on a job well done.",
-	},
-	[263] = {
-		[1] = "156",
-		[2] = "You cry out for help!",
-	},
-	[264] = {
-		[1] = "156",
-		[2] = "You cry out for help!",
-	},
-	[265] = {
-		[1] = "157",
-		[2] = "You yell incoming enemies!",
-	},
-	[266] = {
-		[1] = "157",
-		[2] = "You yell incoming enemies!",
-	},
-	[267] = {
-		[1] = "158",
-		[2] = "You give the order to open fire.",
-	},
-	[268] = {
-		[1] = "158",
-		[2] = "You give the order to open fire.",
-	},
-	[269] = {
-		[1] = "159",
-		[2] = "You start to charge.",
-	},
-	[270] = {
-		[1] = "159",
-		[2] = "You start to charge.",
-	},
-	[271] = {
-		[1] = "160",
-		[2] = "You yell for everyone to flee!",
-	},
-	[272] = {
-		[1] = "160",
-		[2] = "You yell for Rabbit to flee!",
-	},
-	[273] = {
-		[1] = "161",
-		[2] = "You tell everyone to attack something.",
-	},
-	[274] = {
-		[1] = "161",
-		[2] = "You tell everyone to attack Rabbit.",
-	},
-	[275] = {
-		[1] = "162",
-		[2] = "You announce that you have low mana!",
-	},
-	[276] = {
-		[1] = "162",
-		[2] = "You announce that you have low mana!",
-	},
-	[277] = {
-		[1] = "163",
-		[2] = "You motion for everyone to follow.",
-	},
-	[278] = {
-		[1] = "163",
-		[2] = "You motion for Rabbit to follow.",
-	},
-	[279] = {
-		[1] = "164",
-		[2] = "You ask everyone to wait.",
-	},
-	[280] = {
-		[1] = "164",
-		[2] = "You ask Rabbit to wait.",
-	},
-	[281] = {
-		[1] = "165",
-		[2] = "You flirt.",
-	},
-	[282] = {
-		[1] = "165",
-		[2] = "You flirt with Rabbit.",
-	},
-	[283] = {
-		[1] = "166",
-		[2] = "You call out for healing!",
-	},
-	[284] = {
-		[1] = "166",
-		[2] = "You call out for healing!",
-	},
-	[285] = {
-		[1] = "167",
-		[2] = "You tell a joke.",
-	},
-	[286] = {
-		[1] = "167",
-		[2] = "You tell Rabbit a joke.",
-	},
-	[287] = {
-		[1] = "168",
-		[2] = "You wink slyly.",
-	},
-	[288] = {
-		[1] = "168",
-		[2] = "You wink slyly at Rabbit.",
-	},
-	[289] = {
-		[1] = "169",
-		[2] = "You need a pat.",
-	},
-	[290] = {
-		[1] = "169",
-		[2] = "You gently pat Rabbit.",
-	},
-	[291] = {
-		[1] = "170",
-		[2] = "You clap half heartedly, clearly unimpressed.",
-	},
-	[292] = {
-		[1] = "170",
-		[2] = "You clap for Rabbit, clearly unimpressed.",
-	},
+
+[1] = "81",
+[2] = "You're too sexy for your tunic...so sexy it hurts.",
+[2] = "You think Rabbit is a sexy devil.",
+
+
+[1] = "82",
+[2] = "You shake your rear.",
+[2] = "You shake your rear at Rabbit.",
+
+
+[1] = "83",
+[2] = "You shout.",
+[2] = "You shout at Rabbit.",
+
+
+[1] = "84",
+[2] = "You shrug.  Who knows?",
+[2] = "You shrug at Rabbit.  Who knows?",
+
+
+[1] = "85",
+[2] = "You smile shyly.",
+[2] = "You smile shyly at Rabbit.",
+
+
+[1] = "86",
+[2] = "You let out a long, drawn-out sigh.",
+[2] = "You sigh at Rabbit.",
+
+
+87
+
+
+[1] = "88",
+[2] = "You fall asleep.  Zzzzzzz.",
+[2] = "You fall asleep.  Zzzzzzz.",
+
+
+[1] = "89",
+[2] = "You bare your teeth and snarl.",
+[2] = "You bare your teeth and snarl at Rabbit.",
+
+
+[1] = "90",
+[2] = "You spit on the ground.",
+[2] = "You spit on Rabbit.",
+
+
+[1] = "91",
+[2] = "You stare off into the distance.",
+[2] = "You stare Rabbit down.",
+
+
+[1] = "92",
+[2] = "You are so surprised!",
+[2] = "You are surprised by Rabbit's actions.",
+
+
+[1] = "93",
+[2] = "You surrender to your opponents.",
+[2] = "You surrender before Rabbit.  Such is the agony of defeat...",
+
+
+[1] = "94",
+[2] = "You talk to yourself since no one else seems interested.",
+[2] = "You want to talk things over with Rabbit.",
+
+
+[1] = "95",
+[2] = "You talk excitedly with everyone.",
+[2] = "You talk excitedly with Rabbit.",
+
+
+[1] = "96",
+[2] = "You want to know the meaning of life.",
+[2] = "You question Rabbit.",
+
+
+[1] = "97",
+[2] = "You tap your foot.  Hurry up already!",
+[2] = "You tap your foot as you wait for Rabbit.",
+
+
+[1] = "98",
+[2] = "You thank everyone around you.",
+[2] = "You thank Rabbit.",
+
+
+[1] = "99",
+[2] = "You threaten everyone with the wrath of doom.",
+[2] = "You threaten Rabbit with the wrath of doom.",
+
+
+[1] = "100",
+[2] = "You let everyone know that you are tired.",
+[2] = "You let Rabbit know that you are tired.",
+
+
+[1] = "101",
+[2] = "You bask in the glory of victory.",
+[2] = "You bask in the glory of victory with Rabbit.",
+
+
+[1] = "102",
+[2] = "You wave.",
+[2] = "You wave at Rabbit.",
+
+
+[1] = "103",
+[2] = "You welcome everyone.",
+[2] = "You welcome Rabbit.",
+
+
+[1] = "104",
+[2] = "You whine pathetically.",
+[2] = "You whine pathetically at Rabbit.",
+
+
+[1] = "105",
+[2] = "You let forth a sharp whistle.",
+[2] = "You whistle at Rabbit.",
+
+
+[1] = "106",
+[2] = "You begin to work.",
+[2] = "You work with Rabbit.",
+
+
+[1] = "107",
+[2] = "You yawn sleepily.",
+[2] = "You yawn sleepily at Rabbit.",
+
+
+[1] = "108",
+[2] = "You boggle at the situation.",
+[2] = "You boggle at Rabbit.",
+
+
+[1] = "109",
+[2] = "You remain calm.",
+[2] = "You try to calm Rabbit down.",
+
+
+[1] = "110",
+[2] = "You let everyone know that you are cold.",
+[2] = "You let Rabbit know that you are cold.",
+
+
+[1] = "111",
+[2] = "You need to be comforted.",
+[2] = "You comfort Rabbit.",
+
+
+[1] = "112",
+[2] = "You need to be cuddled.",
+[2] = "You cuddle up against Rabbit.",
+
+
+[1] = "113",
+[2] = "You duck for cover.",
+[2] = "You duck behind Rabbit.",
+
+
+[1] = "114",
+[2] = "You think everyone around you is a son of a motherless ogre.",
+[2] = "You think Rabbit is the son of a motherless ogre.",
+
+
+[1] = "115",
+[2] = "You introduce yourself to everyone.",
+[2] = "You introduce yourself to Rabbit.",
+
+
+[1] = "116",
+[2] = "You were just kidding!",
+[2] = "You let Rabbit know that you were just kidding!",
+
+
+[1] = "117",
+[2] = "You lick your lips.",
+[2] = "You lick Rabbit.",
+
+
+[1] = "118",
+[2] = "You are listening!",
+[2] = "You listen intently to Rabbit.",
+
+
+[1] = "119",
+[2] = "You are hopelessly lost.",
+[2] = "You want Rabbit to know that you are hopelessly lost.",
+
+
+[1] = "120",
+[2] = "You mock life and all it stands for.",
+[2] = "You mock the foolishness of Rabbit.",
+
+
+[1] = "121",
+[2] = "You ponder the situation.",
+[2] = "You ponder Rabbit's actions.",
+
+
+[1] = "122",
+[2] = "You pounce out from the shadows.",
+[2] = "You pounce on top of Rabbit.",
+
+
+[1] = "123",
+[2] = "You praise the Light.",
+[2] = "You lavish praise upon Rabbit.",
+
+
+[1] = "124",
+[2] = "You purr like a kitten.",
+[2] = "You purr at Rabbit.",
+
+
+[1] = "125",
+[2] = "You are puzzled. What's going on here?",
+[2] = "You are puzzled by Rabbit.",
+
+
+[1] = "126",
+[2] = "You raise your hand in the air.",
+[2] = "You look at Rabbit and raise your hand.",
+
+
+[1] = "127",
+[2] = "You let everyone know that you are ready!",
+[2] = "You let Rabbit know that you are ready!",
+
+
+[1] = "128",
+[2] = "You shimmy before the masses.",
+[2] = "You shimmy before Rabbit.",
+
+
+[1] = "129",
+[2] = "You shiver in your boots. Chilling!",
+[2] = "You shiver beside Rabbit. Chilling!",
+
+
+[1] = "130",
+[2] = "You shoo the measly pests away.",
+[2] = "You shoo Rabbit away. Be gone pest!",
+
+
+[1] = "131",
+[2] = "You slap yourself across the face. Ouch!",
+[2] = "You slap Rabbit across the face. Ouch!",
+
+
+[1] = "132",
+[2] = "A sly smirk spreads across your face.",
+[2] = "You smirk slyly at Rabbit.",
+
+
+[1] = "133",
+[2] = "You sniff the air around you.",
+[2] = "You sniff Rabbit.",
+
+
+[1] = "134",
+[2] = "You snub all of the lowly peons around you.",
+[2] = "You snub Rabbit.",
+
+
+[1] = "135",
+[2] = "You need to be soothed.",
+[2] = "You soothe Rabbit. There, there...things will be ok.",
+
+
+[1] = "136",
+[2] = "You smell the air around you. Wow, someone stinks!",
+[2] = "You smell Rabbit. Wow, someone stinks!",
+
+
+[1] = "137",
+[2] = "You taunt everyone around you. Bring it fools!",
+[2] = "You make a taunting gesture at Rabbit. Bring it!",
+
+
+[1] = "138",
+[2] = "You are such a tease.",
+[2] = "You tease Rabbit.",
+
+
+[1] = "139",
+[2] = "You are so thirsty. Can anyone spare a drink?",
+[2] = "You let Rabbit know you are thirsty. Spare a drink?",
+
+
+[1] = "140",
+[2] = "You veto the motion on the floor.",
+[2] = "You veto Rabbit's motion.",
+
+
+[1] = "141",
+[2] = "You quietly snicker to yourself.",
+[2] = "You snicker at Rabbit.",
+
+
+[1] = "142",
+[2] = "You want to be tickled.  Hee hee!",
+[2] = "You tickle Rabbit.  Hee hee!",
+
+
+143
+
+
+[1] = "144",
+[2] = "You begin to play the world's smallest violin.",
+[2] = "You play the world's smallest violin for Rabbit.",
+
+
+[1] = "145",
+[2] = "You smile.",
+[2] = "You smile at Rabbit.",
+
+
+[1] = "146",
+[2] = "You make a rude gesture.",
+[2] = "You make a rude gesture at Rabbit.",
+
+
+[1] = "147",
+[2] = "You growl menacingly.",
+[2] = "You growl menacingly at Rabbit.",
+
+
+[1] = "148",
+[2] = "You bark. Woof woof!",
+[2] = "You bark at Rabbit",
+
+
+[1] = "149",
+[2] = "You pity those around you.",
+[2] = "You look down upon Rabbit with pity.",
+
+
+[1] = "150",
+[2] = "You are scared!",
+[2] = "You are scared of Rabbit.",
+
+
+[1] = "151",
+[2] = "You flop about helplessly.",
+[2] = "You flop about helplessly around Rabbit.",
+
+
+[1] = "152",
+[2] = "You feel the love.",
+[2] = "You love Rabbit.",
+
+
+[1] = "153",
+[2] = "Mooooooooooo.",
+[2] = "You moo at Rabbit. Mooooooooooo.",
+
+
+[1] = "154",
+[2] = "You commend everyone on a job well done.",
+[2] = "You commend Rabbit on a job well done.",
+
+
+155
+
+
+[1] = "156",
+[2] = "You cry out for help!",
+[2] = "You cry out for help!",
+
+
+[1] = "157",
+[2] = "You yell incoming enemies!",
+[2] = "You yell incoming enemies!",
+
+
+[1] = "158",
+[2] = "You give the order to open fire.",
+[2] = "You give the order to open fire.",
+
+
+[1] = "159",
+[2] = "You start to charge.",
+[2] = "You start to charge.",
+
+
+[1] = "160",
+[2] = "You yell for everyone to flee!",
+[2] = "You yell for Rabbit to flee!",
+
+
+[1] = "161",
+[2] = "You tell everyone to attack something.",
+[2] = "You tell everyone to attack Rabbit.",
+
+
+[1] = "162",
+[2] = "You announce that you have low mana!",
+[2] = "You announce that you have low mana!",
+
+
+[1] = "163",
+[2] = "You motion for everyone to follow.",
+[2] = "You motion for Rabbit to follow.",
+
+
+[1] = "164",
+[2] = "You ask everyone to wait.",
+[2] = "You ask Rabbit to wait.",
+
+
+[1] = "165",
+[2] = "You flirt.",
+[2] = "You flirt with Rabbit.",
+
+
+[1] = "166",
+[2] = "You call out for healing!",
+[2] = "You call out for healing!",
+
+
+[1] = "167",
+[2] = "You tell a joke.",
+[2] = "You tell Rabbit a joke.",
+
+
+[1] = "168",
+[2] = "You wink slyly.",
+[2] = "You wink slyly at Rabbit.",
+
+
+[1] = "169",
+[2] = "You need a pat.",
+[2] = "You gently pat Rabbit.",
+
+
+[1] = "170",
+[2] = "You clap half heartedly, clearly unimpressed.",
+[2] = "You clap for Rabbit, clearly unimpressed.",
+
 
 
 
