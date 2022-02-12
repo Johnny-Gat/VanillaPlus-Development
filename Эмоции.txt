@@ -204,89 +204,89 @@ Testerushka cracks her knuckles.
 Testerushka cracks her knuckles while staring at you.
 Testerushka cracks her knuckles while staring at Rabbit.
 
-31
+31 / cringe
 You cringe in fear.
 You cringe away from Rabbit.
-[2] = "Testerushka cringes in fear.",
-[2] = "Testerushka cringes away from you.",
-[2] = "Testerushka cringes away from Rabbit.",
+Testerushka cringes in fear.
+Testerushka cringes away from you.
+Testerushka cringes away from Rabbit.
 
-32
+32 / cry / sob / weep
 You cry.
 You cry on Rabbit's shoulder.
-[2] = "Testerushka cries.",
-[2] = "Testerushka cries on your shoulder.",
-[2] = "Testerushka cries on Rabbit's shoulder.",
+Testerushka cries.
+Testerushka cries on your shoulder.
+Testerushka cries on Rabbit's shoulder.
 
-33
+33 / curious
 You express your curiosity to those around you.
 You are curious what Rabbit is up to.
-[2] = "Testerushka expresses her curiosity to everyone.",
-[2] = "Testerushka is curious what you are up to.",
-[2] = "Testerushka is curious what Rabbit is up to.",
+Testerushka expresses her curiosity to everyone.
+Testerushka is curious what you are up to.
+Testerushka is curious what Rabbit is up to.
 
-34
+34 / curtsey
 You curtsey.
 You curtsey before Rabbit.
-[2] = "Testerushka curtsies.",
-[2] = "Testerushka curtsies before you.",
-[2] = "Testerushka curtsies before Rabbit.",
+Testerushka curtsies.
+Testerushka curtsies before you.
+Testerushka curtsies before Rabbit.
 
-35
+35 / dance
 You burst into dance.
 You dance with Rabbit.
-[2] = "Testerushka bursts into dance.",
-[2] = "Testerushka dances with you.",
-[2] = "Testerushka dances with Rabbit.",
+Testerushka bursts into dance.
+Testerushka dances with you.
+Testerushka dances with Rabbit.
 
-36
+36 / drink / shindig
 You raise a drink in the air before chugging it down.  Cheers!
 You raise a drink to Rabbit.  Cheers!
-[2] = "Testerushka raises a drink in the air before chugging it down.  Cheers!",
-[2] = "Testerushka raises a drink to you.  Cheers!",
-[2] = "Testerushka raises a drink to Rabbit.  Cheers!",
+Testerushka raises a drink in the air before chugging it down.  Cheers!
+Testerushka raises a drink to you.  Cheers!
+Testerushka raises a drink to Rabbit.  Cheers!
 
-37
+37 / drool
 A tendril of drool runs down your lip.
 You look at Rabbit and begin to drool.
-[2] = "A tendril of drool runs down Testerushka's lip.",
-[2] = "Testerushka looks at you and begins to drool.",
-[2] = "Testerushka looks at Rabbit and begins to drool.",
+A tendril of drool runs down Testerushka's lip.
+Testerushka looks at you and begins to drool.
+Testerushka looks at Rabbit and begins to drool.
 
-38
+38 / eat / chew / feast
 You begin to eat.
 You begin to eat in front of Rabbit.
-[2] = "Testerushka begins to eat.",
-[2] = "Testerushka begins to eat rations in front of you.",
-[2] = "Testerushka begins to eat in front of Rabbit.",
+Testerushka begins to eat.
+Testerushka begins to eat rations in front of you.
+Testerushka begins to eat in front of Rabbit.
 
-39
+39 / eye
 You cross your eyes.
 You eye Rabbit up and down.
-[2] = "Testerushka looks at you with crossed eyes.",
-[2] = "Testerushka eyes you up and down.",
-[2] = "Testerushka eyes Rabbit up and down.",
+Testerushka looks at you with crossed eyes.
+Testerushka eyes you up and down.
+Testerushka eyes Rabbit up and down.
 
-40
+40 / fart
 You fart loudly.  Whew...what stinks?
 You brush up against Rabbit and fart loudly.
-[2] = "Testerushka farts loudly.  Whew...what stinks?",
-[2] = "Testerushka brushes up against you and farts loudly.",
-[2] = "Testerushka brushes up against Rabbit and farts loudly.",
+Testerushka farts loudly.  Whew...what stinks?
+Testerushka brushes up against you and farts loudly.
+Testerushka brushes up against Rabbit and farts loudly.
 
 41
 You fidget.
 You fidget impatiently while waiting for Rabbit.
-[2] = "Testerushka fidgets.",
-[2] = "Testerushka fidgets impatiently while waiting for you.",
-[2] = "Testerushka fidgets impatiently while waiting for Rabbit.",
+[2] = "Testerushka fidgets.
+[2] = "Testerushka fidgets impatiently while waiting for you.
+[2] = "Testerushka fidgets impatiently while waiting for Rabbit.
 
 42
 You flex your muscles.  Oooooh so strong!
 You flex at Rabbit.  Oooooh so strong!
-[2] = "Testerushka flexes her muscles.  Oooooh so strong!",
-[2] = "Testerushka flexes at you.  Oooooh so strong!",
-[2] = "Testerushka flexes at Rabbit.  Oooooh so strong!",
+[2] = "Testerushka flexes her muscles.  Oooooh so strong!
+[2] = "Testerushka flexes at you.  Oooooh so strong!
+[2] = "Testerushka flexes at Rabbit.  Oooooh so strong!
 
 43
 You frown.
