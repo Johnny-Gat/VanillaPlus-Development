@@ -1,52 +1,72 @@
 1
 You agree.
 You agree with Rabbit.
-
+Testerushka agrees.
+Testerushka agrees with you.
+Testerushka agrees with Rabbit.
 
 2
 You are amazed!
 You are amazed by Rabbit!
-
+Testerushka is amazed!
+Testerushka is amazed by you!
+Testerushka is amazed by Rabbit!
 
 3
 You raise your fist in anger.
 You raise your fist in anger at Rabbit.
-
+Testerushka raises her fist in anger.
+Testerushka raises her fist in anger at you.
+Testerushka raises her fist in anger at Rabbit.
 
 4
 You apologize to everyone.  Sorry!
 You apologize to Rabbit.  Sorry!
-
+Testerushka apologizes to everyone.  Sorry!
+Testerushka apologizes to you.  Sorry!
+Testerushka apologizes to Rabbit.  Sorry!
 
 5
 You applaud.  Bravo!
 You applaud at Rabbit.  Bravo!
-
+Testerushka applauds.  Bravo!
+Testerushka applauds at you.  Bravo!
+Testerushka applauds at Rabbit.  Bravo!
 
 6
 You are bashful.
 You are so bashful...too bashful to get Rabbit's attention.
-
+Testerushka is bashful.
+Testerushka is so bashful...too bashful to get your attention.
+Testerushka is so bashful...too bashful to get Rabbit's attention.
 
 7
 You beckon everyone over to you.
 You beckon Rabbit over.
-
+Testerushka beckons everyone over.
+Testerushka beckons you over.
+Testerushka beckons Rabbit over.
 
 8
 You beg everyone around you. How pathetic.
 You beg Rabbit.  How pathetic.
-
+Testerushka begs everyone around her.  How pathetic.
+Testerushka begs you.  How pathetic.
+Testerushka begs Rabbit.  How pathetic.
 
 9
 You look around for someone to bite.
 You bite Rabbit.  Ouch!
-
+Testerushka looks around for someone to bite.
+Testerushka bites you.  Ouch!
+Testerushka bites Rabbit.  Ouch!
 
 10
 Blood oozes from your wounds.
 Blood oozes from your wounds.
-
+Blood oozes from Testerushka's wounds.
+Blood oozes from Testerushka's wounds.
+Blood oozes from Testerushka's wounds.
 
 11
 You blink your eyes.
