@@ -295,8 +295,104 @@ You kneel down.
 You kneel before Rabbit.
 
 
+61
+You laugh.
+You laugh at Rabbit.
 
 
+62
+You lie down.
+You lie down before Rabbit.
+
+
+63
+You need a massage!
+You massage Rabbit's shoulders.
+
+
+64
+You moan suggestively.
+You moan suggestively at Rabbit.
+
+
+65
+You drop your trousers and moon everyone.
+You drop your trousers and moon Rabbit.
+
+
+66
+In quiet contemplation, you mourn the loss of the dead.
+In quiet contemplation, you mourn the death of Rabbit.
+
+
+67
+You clearly state, NO.
+You tell Rabbit NO.  Not going to happen.
+
+
+68
+You nod.
+You nod at Rabbit.
+
+
+69
+With a finger deep in one nostril, you pass the time.
+You pick your nose and show it to Rabbit.
+
+
+70
+You run around in a frenzied state of panic.
+You take one look at Rabbit and panic.
+
+
+[1] = "71",
+[2] = "You peer around, searchingly.",
+[2] = "You peer at Rabbit searchingly.",
+
+
+[1] = "72",
+[2] = "You drop to your knees and plead in desperation.",
+[2] = "You plead with Rabbit.",
+
+
+[1] = "73",
+[2] = "You point over yonder.",
+[2] = "You point at Rabbit.",
+
+
+[1] = "74",
+[2] = "You poke your belly and giggle.",
+[2] = "You poke Rabbit.  Hey!",
+
+
+[1] = "75",
+[2] = "You pray to the Gods.",
+[2] = "You say a prayer for Rabbit.",
+
+
+[1] = "76",
+[2] = "You roar with bestial vigor.  So fierce!",
+[2] = "You roar with bestial vigor at Rabbit.  So fierce!",
+
+
+[1] = "77",
+[2] = "You roll on the floor laughing.",
+[2] = "You roll on the floor laughing at Rabbit.",
+
+
+[1] = "78",
+[2] = "You make a rude gesture.",
+[2] = "You make a rude gesture at Rabbit.",
+
+
+[1] = "79",
+[2] = "You stand at attention and salute.",
+[2] = "You salute Rabbit with respect.",
+
+
+[1] = "80",
+[2] = "You scratch yourself.  Ah, much better!",
+[2] = "You scratch Rabbit.  How catty!",
 
 
 [1] = "81",
