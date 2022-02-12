@@ -653,102 +653,264 @@ You kneel before Rabbit.
 61
 You laugh.
 You laugh at Rabbit.
-
+		[2] = "Testerushka laughs.",
+	},
+	[8] = {
+		[1] = "61",
+		[2] = "Testerushka laughs at you.",
+	},
+	[9] = {
+		[1] = "61",
+		[2] = "Testerushka laughs at Rabbit.",
 
 62
 You lie down.
 You lie down before Rabbit.
-
+		[2] = "Testerushka lies down.",
+	},
+	[11] = {
+		[1] = "62",
+		[2] = "Testerushka lies down before you.",
+	},
+	[12] = {
+		[1] = "62",
+		[2] = "Testerushka lies down before Rabbit.",
 
 63
 You need a massage!
 You massage Rabbit's shoulders.
-
+		[2] = "Testerushka needs a massage!",
+	},
+	[14] = {
+		[1] = "63",
+		[2] = "Testerushka massages your shoulders.",
+	},
+	[15] = {
+		[1] = "63",
+		[2] = "Testerushka massages Rabbit's shoulders.",
 
 64
 You moan suggestively.
 You moan suggestively at Rabbit.
-
+		[2] = "Testerushka moans suggestively.",
+	},
+	[17] = {
+		[1] = "64",
+		[2] = "Testerushka moans suggestively at you.",
+	},
+	[18] = {
+		[1] = "64",
+		[2] = "Testerushka moans suggestively at Rabbit.",
 
 65
 You drop your trousers and moon everyone.
 You drop your trousers and moon Rabbit.
-
+		[2] = "Testerushka drops her trousers and moons everyone.",
+	},
+	[20] = {
+		[1] = "65",
+		[2] = "Testerushka drops her trousers and moons you.",
+	},
+	[21] = {
+		[1] = "65",
+		[2] = "Testerushka drops her trousers and moons Rabbit.",
 
 66
 In quiet contemplation, you mourn the loss of the dead.
 In quiet contemplation, you mourn the death of Rabbit.
-
+		[2] = "In quiet contemplation, Testerushka mourns the loss of the dead.",
+	},
+	[23] = {
+		[1] = "66",
+		[2] = "In quiet contemplation, Testerushka mourns your death.",
+	},
+	[24] = {
+		[1] = "66",
+		[2] = "In quiet contemplation, Testerushka mourns the death of Rabbit.",
 
 67
 You clearly state, NO.
 You tell Rabbit NO.  Not going to happen.
-
+		[2] = "Testerushka clearly states, NO.",
+	},
+	[26] = {
+		[1] = "67",
+		[2] = "Testerushka tells you NO.  Not going to happen.",
+	},
+	[27] = {
+		[1] = "67",
+		[2] = "Testerushka tells Rabbit NO.  Not going to happen.",
 
 68
 You nod.
 You nod at Rabbit.
-
+		[2] = "Testerushka nods.",
+	},
+	[29] = {
+		[1] = "68",
+		[2] = "Testerushka nods at you.",
+	},
+	[30] = {
+		[1] = "68",
+		[2] = "Testerushka nods at Rabbit.",
 
 69
 With a finger deep in one nostril, you pass the time.
 You pick your nose and show it to Rabbit.
-
+		[2] = "Testerushka passes the time with a finger deep in one nostril.",
+	},
+	[32] = {
+		[1] = "69",
+		[2] = "Testerushka picks her nose and shows it to you.",
+	},
+	[33] = {
+		[1] = "69",
+		[2] = "Testerushka picks her nose and shows it to Rabbit.",
 
 70
 You run around in a frenzied state of panic.
 You take one look at Rabbit and panic.
-
+		[2] = "Testerushka runs around in a frenzied state of panic.",
+	},
+	[35] = {
+		[1] = "70",
+		[2] = "Testerushka takes one look at you and panics.",
+	},
+	[36] = {
+		[1] = "70",
+		[2] = "Testerushka takes one look at Rabbit and panics.",
 
 [1] = "71",
 [2] = "You peer around, searchingly.",
 [2] = "You peer at Rabbit searchingly.",
-
+		[2] = "Testerushka peers around, searchingly.",
+	},
+	[38] = {
+		[1] = "71",
+		[2] = "Testerushka peers at you searchingly.",
+	},
+	[39] = {
+		[1] = "71",
+		[2] = "Testerushka peers at Rabbit searchingly.",
 
 [1] = "72",
 [2] = "You drop to your knees and plead in desperation.",
 [2] = "You plead with Rabbit.",
-
+		[2] = "Testerushka drops to her knees and plead in desperation.",
+	},
+	[41] = {
+		[1] = "72",
+		[2] = "Testerushka pleads with you.",
+	},
+	[42] = {
+		[1] = "72",
+		[2] = "Testerushka pleads with Rabbit.",
+	},
 
 [1] = "73",
 [2] = "You point over yonder.",
 [2] = "You point at Rabbit.",
-
+		[2] = "Testerushka points over yonder.",
+	},
+	[44] = {
+		[1] = "73",
+		[2] = "Testerushka points at you.",
+	},
+	[45] = {
+		[1] = "73",
+		[2] = "Testerushka points at Rabbit.",
 
 [1] = "74",
 [2] = "You poke your belly and giggle.",
 [2] = "You poke Rabbit.  Hey!",
-
+		[2] = "Testerushka pokes her belly and giggles.",
+	},
+	[47] = {
+		[1] = "74",
+		[2] = "Testerushka pokes you.  Hey!",
+	},
+	[48] = {
+		[1] = "74",
+		[2] = "Testerushka pokes Rabbit.  Hey!",
 
 [1] = "75",
 [2] = "You pray to the Gods.",
 [2] = "You say a prayer for Rabbit.",
-
+		[2] = "Testerushka prays to the Gods.",
+	},
+	[50] = {
+		[1] = "75",
+		[2] = "Testerushka says a prayer for you.",
+	},
+	[51] = {
+		[1] = "75",
+		[2] = "Testerushka says a prayer for Rabbit.",
 
 [1] = "76",
 [2] = "You roar with bestial vigor.  So fierce!",
 [2] = "You roar with bestial vigor at Rabbit.  So fierce!",
-
+		[2] = "Testerushka roars with bestial vigor.  So fierce!",
+	},
+	[53] = {
+		[1] = "76",
+		[2] = "Testerushka roars with bestial vigor at you.  So fierce!",
+	},
+	[54] = {
+		[1] = "76",
+		[2] = "Testerushka roars with bestial vigor at Rabbit.  So fierce!",
 
 [1] = "77",
 [2] = "You roll on the floor laughing.",
 [2] = "You roll on the floor laughing at Rabbit.",
-
+		[2] = "Testerushka rolls on the floor laughing.",
+	},
+	[56] = {
+		[1] = "77",
+		[2] = "Testerushka rolls on the floor laughing at you.",
+	},
+	[57] = {
+		[1] = "77",
+		[2] = "Testerushka rolls on the floor laughing at Rabbit.",
 
 [1] = "78",
 [2] = "You make a rude gesture.",
 [2] = "You make a rude gesture at Rabbit.",
-
+		[1] = "78",
+		[2] = "Testerushka makes a rude gesture.",
+	},
+	[59] = {
+		[1] = "78",
+		[2] = "Testerushka makes a rude gesture at you.",
+	},
+	[60] = {
+		[1] = "78",
+		[2] = "Testerushka makes a rude gesture at Rabbit.",
 
 [1] = "79",
 [2] = "You stand at attention and salute.",
 [2] = "You salute Rabbit with respect.",
-
+		[2] = "Testerushka stands at attention and salutes.",
+	},
+	[62] = {
+		[1] = "79",
+		[2] = "Testerushka salutes you with respect.",
+	},
+	[63] = {
+		[1] = "79",
+		[2] = "Testerushka salutes Rabbit with respect.",
 
 [1] = "80",
 [2] = "You scratch yourself.  Ah, much better!",
 [2] = "You scratch Rabbit.  How catty!",
-
+		[2] = "Testerushka scratches herself.  Ah, much better!",
+	},
+	[65] = {
+		[1] = "80",
+		[2] = "Testerushka scratches you.  How catty!",
+	},
+	[66] = {
+		[1] = "80",
+		[2] = "Testerushka scratches Rabbit.  How catty!",
 
 [1] = "81",
 [2] = "You're too sexy for your tunic...so sexy it hurts.",
