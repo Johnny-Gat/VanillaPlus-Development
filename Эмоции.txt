@@ -71,52 +71,72 @@ Blood oozes from Testerushka's wounds.
 11
 You blink your eyes.
 You blink at Rabbit.
-
+Testerushka blinks.
+Testerushka blinks at you.
+Testerushka blinks at Rabbit.
 
 12
 You blush.
 You blush at Rabbit.
-
+Testerushka blushes.
+Testerushka blushes at you.
+Testerushka blushes at Rabbit.
 
 13
 You bonk yourself on the noggin.  Doh!
 You bonk Rabbit on the noggin.  Doh!
-
+Testerushka bonks her own noggin.  Doh!
+Testerushka bonks you on the noggin.  Doh!
+Testerushka bonks Rabbit on the noggin.  Doh!
 
 14
 You are overcome with boredom.  Oh the drudgery!
 You are terribly bored with Rabbit.
-
+Testerushka is overcome with boredom.  Oh the drudgery!
+Testerushka is terribly bored with you.
+Testerushka is terribly bored with Rabbit.
 
 15
 You bounce up and down.
 You bounce up and down in front of Rabbit.
-
+Testerushka bounces up and down.
+Testerushka bounces up and down in front of you.
+Testerushka bounces up and down in front of Rabbit.
 
 16
 You let everyone know you'll be right back.
 You let Rabbit know you'll be right back.
-
+Testerushka will be right back.
+Testerushka will be right back.  Sit tight.
+Testerushka will be right back.  Sit tight, Rabbit.
 
 17
 You bow down graciously.
 You bow before Rabbit.
-
+Testerushka bows down graciously.
+Testerushka bows before you.
+Testerushka bows before Rabbit.
 
 18
 You let out a loud belch.
 You burp rudely in Rabbit's face.
-
+Testerushka lets out a loud belch.
+Testerushka burps rudely in your face.
+Testerushka burps rudely in Rabbit's face.
 
 19
 You wave goodbye to everyone.  Farewell!
 You wave goodbye to Rabbit.  Farewell!
-
+Testerushka waves goodbye to everyone.  Farewell!
+Testerushka waves goodbye to you.  Farewell!
+Testerushka waves goodbye to Rabbit.  Farewell!
 
 20
 You cackle maniacally at the situation.
 You cackle maniacally at Rabbit.
-
+Testerushka cackles maniacally at the situation.
+Testerushka cackles maniacally at you.
+Testerushka cackles maniacally at Rabbit.
 
 21
 You cheer!
@@ -184,6 +204,7 @@ You are curious what Rabbit is up to.
 34
 You curtsey.
 You curtsey before Rabbit.
+
 
 35
 You burst into dance.
