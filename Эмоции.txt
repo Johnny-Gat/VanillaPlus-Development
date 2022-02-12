@@ -141,32 +141,81 @@ Testerushka cackles maniacally at Rabbit.
 21
 You cheer!
 You cheer at Rabbit.
-
+		[2] = "Testerushka cheers!",
+	},
+	[2] = {
+		[1] = "21",
+		[2] = "Testerushka cheers at you.",
+	},
+	[3] = {
+		[1] = "21",
+		[2] = "Testerushka cheers at Rabbit!",
 
 22
 With arms flapping, you strut around.  Cluck, Cluck, Chicken!
 With arms flapping, you strut around Rabbit.  Cluck, Cluck, Chicken!
-
+		[2] = "With arms flapping, Testerushka struts around.  Cluck, Cluck, Chicken!",
+	},
+	[5] = {
+		[1] = "22",
+		[2] = "With arms flapping, Testerushka struts around you.  Cluck, Cluck, Chicken!",
+	},
+	[6] = {
+		[1] = "22",
+		[2] = "With arms flapping, Testerushka struts around Rabbit.  Cluck, Cluck, Chicken!",
+	},
 
 23
 You let out a hearty chuckle.
 You chuckle at Rabbit.
-
+		[2] = "Testerushka lets out a hearty chuckle.",
+	},
+	[8] = {
+		[1] = "23",
+		[2] = "Testerushka chuckles at you.",
+	},
+	[9] = {
+		[1] = "23",
+		[2] = "Testerushka chuckles at Rabbit.",
 
 24
 You clap excitedly.
 You clap excitedly for Rabbit.
-
+		[2] = "Testerushka claps excitedly.",
+	},
+	[11] = {
+		[1] = "24",
+		[2] = "Testerushka claps excitedly for you.",
+	},
+	[12] = {
+		[1] = "24",
+		[2] = "Testerushka claps excitedly for Rabbit.",
 
 25
 You are hopelessly confused.
 You look at Rabbit with a confused look.
-
+		[2] = "Testerushka is hopelessly confused.",
+	},
+	[14] = {
+		[1] = "25",
+		[2] = "Testerushka looks at you with a confused look.",
+	},
+	[15] = {
+		[1] = "25",
+		[2] = "Testerushka looks at Rabbit with a confused look.",
 
 26
 You congratulate everyone around you.
 You congratulate Rabbit.
-
+		[2] = "Testerushka congratulates everyone.",
+	},
+	[17] = {
+		[1] = "26",
+		[2] = "Testerushka congratulates you.",
+	},
+	[18] = {
+		[1] = "26",
+		[2] = "Testerushka congratulates Rabbit.",
 
 27
 
@@ -174,167 +223,432 @@ You congratulate Rabbit.
 28
 You let out a hacking cough.
 You cough at Rabbit.
-
+		[2] = "Testerushka lets out a hacking cough.",
+	},
+	[20] = {
+		[1] = "28",
+		[2] = "Testerushka coughs at you.",
+	},
+	[21] = {
+		[1] = "28",
+		[2] = "Testerushka coughs at Rabbit.",
 
 29
 You cower in fear.
 You cower in fear at the sight of Rabbit.
-
+		[2] = "Testerushka cowers in fear.",
+	},
+	[23] = {
+		[1] = "29",
+		[2] = "Testerushka cowers in fear at the sight of you.",
+	},
+	[24] = {
+		[1] = "29",
+		[2] = "Testerushka cowers in fear at the sight of Rabbit.",
 
 30
 You crack your knuckles.
 You crack your knuckles while staring at Rabbit.
-
+		[2] = "Testerushka cracks her knuckles.",
+	},
+	[26] = {
+		[1] = "30",
+		[2] = "Testerushka cracks her knuckles while staring at you.",
+	},
+	[27] = {
+		[1] = "30",
+		[2] = "Testerushka cracks her knuckles while staring at Rabbit.",
 
 31
 You cringe in fear.
 You cringe away from Rabbit.
-
+		[2] = "Testerushka cringes in fear.",
+	},
+	[29] = {
+		[1] = "31",
+		[2] = "Testerushka cringes away from you.",
+	},
+	[30] = {
+		[1] = "31",
+		[2] = "Testerushka cringes away from Rabbit.",
 
 32
 You cry.
 You cry on Rabbit's shoulder.
-
+		[2] = "Testerushka cries.",
+	},
+	[32] = {
+		[1] = "32",
+		[2] = "Testerushka cries on your shoulder.",
+	},
+	[33] = {
+		[1] = "32",
+		[2] = "Testerushka cries on Rabbit's shoulder.",
 
 33
 You express your curiosity to those around you.
 You are curious what Rabbit is up to.
-
+		[2] = "Testerushka expresses her curiosity to everyone.",
+	},
+	[35] = {
+		[1] = "33",
+		[2] = "Testerushka is curious what you are up to.",
+	},
+	[36] = {
+		[1] = "33",
+		[2] = "Testerushka is curious what Rabbit is up to.",
 
 34
 You curtsey.
 You curtsey before Rabbit.
-
+		[2] = "Testerushka curtsies.",
+	},
+	[38] = {
+		[1] = "34",
+		[2] = "Testerushka curtsies before you.",
+	},
+	[39] = {
+		[1] = "34",
+		[2] = "Testerushka curtsies before Rabbit.",
 
 35
 You burst into dance.
 You dance with Rabbit.
-
+		[2] = "Testerushka bursts into dance.",
+	},
+	[41] = {
+		[1] = "35",
+		[2] = "Testerushka dances with you.",
+	},
+	[42] = {
+		[1] = "35",
+		[2] = "Testerushka dances with Rabbit.",
 
 36
 You raise a drink in the air before chugging it down.  Cheers!
 You raise a drink to Rabbit.  Cheers!
-
+		[2] = "Testerushka raises a drink in the air before chugging it down.  Cheers!",
+	},
+	[44] = {
+		[1] = "36",
+		[2] = "Testerushka raises a drink to you.  Cheers!",
+	},
+	[45] = {
+		[1] = "36",
+		[2] = "Testerushka raises a drink to Rabbit.  Cheers!",
 
 37
 A tendril of drool runs down your lip.
 You look at Rabbit and begin to drool.
-
+		[2] = "A tendril of drool runs down Testerushka's lip.",
+	},
+	[47] = {
+		[1] = "37",
+		[2] = "Testerushka looks at you and begins to drool.",
+	},
+	[48] = {
+		[1] = "37",
+		[2] = "Testerushka looks at Rabbit and begins to drool.",
 
 38
 You begin to eat.
 You begin to eat in front of Rabbit.
-
+		[2] = "Testerushka begins to eat.",
+	},
+	[50] = {
+		[1] = "38",
+		[2] = "Testerushka begins to eat rations in front of you.",
+	},
+	[51] = {
+		[1] = "38",
+		[2] = "Testerushka begins to eat in front of Rabbit.",
 
 39
 You cross your eyes.
 You eye Rabbit up and down.
-
+		[2] = "Testerushka looks at you with crossed eyes.",
+	},
+	[53] = {
+		[1] = "39",
+		[2] = "Testerushka eyes you up and down.",
+	},
+	[54] = {
+		[1] = "39",
+		[2] = "Testerushka eyes Rabbit up and down.",
 
 40
 You fart loudly.  Whew...what stinks?
 You brush up against Rabbit and fart loudly.
-
+		[2] = "Testerushka farts loudly.  Whew...what stinks?",
+	},
+	[56] = {
+		[1] = "40",
+		[2] = "Testerushka brushes up against you and farts loudly.",
+	},
+	[57] = {
+		[1] = "40",
+		[2] = "Testerushka brushes up against Rabbit and farts loudly.",
 
 41
 You fidget.
 You fidget impatiently while waiting for Rabbit.
-
+		[2] = "Testerushka fidgets.",
+	},
+	[59] = {
+		[1] = "41",
+		[2] = "Testerushka fidgets impatiently while waiting for you.",
+	},
+	[60] = {
+		[1] = "41",
+		[2] = "Testerushka fidgets impatiently while waiting for Rabbit.",
 
 42
 You flex your muscles.  Oooooh so strong!
 You flex at Rabbit.  Oooooh so strong!
-
+		[2] = "Testerushka flexes her muscles.  Oooooh so strong!",
+	},
+	[62] = {
+		[1] = "42",
+		[2] = "Testerushka flexes at you.  Oooooh so strong!",
+	},
+	[63] = {
+		[1] = "42",
+		[2] = "Testerushka flexes at Rabbit.  Oooooh so strong!",
 
 43
 You frown.
 You frown with disappointment at Rabbit.
-
+		[2] = "Testerushka frowns.",
+	},
+	[65] = {
+		[1] = "43",
+		[2] = "Testerushka frowns with disappointment at you.",
+	},
+	[66] = {
+		[1] = "43",
+		[2] = "Testerushka frowns with disappointment at Rabbit.",
 
 44
 You gasp.
 You gasp at Rabbit.
-
+		[2] = "Testerushka gasps.",
+	},
+	[68] = {
+		[1] = "44",
+		[2] = "Testerushka gasps at you.",
+	},
+	[69] = {
+		[1] = "44",
+		[2] = "Testerushka gasps at Rabbit.",
 
 45
 You gaze off into the distance.
 You gaze eagerly at Rabbit.
-
+		[2] = "Testerushka gazes off into the distance.",
+	},
+	[71] = {
+		[1] = "45",
+		[2] = "Testerushka gazes eagerly at you.",
+	},
+	[72] = {
+		[1] = "45",
+		[2] = "Testerushka gazes eagerly at Rabbit.",
 
 46
 You giggle.
 You giggle at Rabbit.
-
+		[2] = "Testerushka giggles.",
+	},
+	[74] = {
+		[1] = "46",
+		[2] = "Testerushka giggles at you.",
+	},
+	[75] = {
+		[1] = "46",
+		[2] = "Testerushka giggles at Rabbit.",
 
 47
 You glare angrily.
 You glare angrily at Rabbit.
-
+		[2] = "Testerushka glares angrily.",
+	},
+	[77] = {
+		[1] = "47",
+		[2] = "Testerushka glares angrily at you.",
+	},
+	[78] = {
+		[1] = "47",
+		[2] = "Testerushka glares angrily at Rabbit.",
 
 48
 You gloat over everyone's misfortune.
 You gloat over Rabbit's misfortune.
-
+		[2] = "Testerushka gloats over everyone's misfortune.",
+	},
+	[80] = {
+		[1] = "48",
+		[2] = "Testerushka gloats over your misfortune.",
+	},
+	[81] = {
+		[1] = "48",
+		[2] = "Testerushka gloats over Rabbit's misfortune.",
 
 49
 You greet everyone warmly.
 You greet Rabbit warmly.
-
+		[2] = "Testerushka greets everyone warmly.",
+	},
+	[83] = {
+		[1] = "49",
+		[2] = "Testerushka greets you warmly.",
+	},
+	[84] = {
+		[1] = "49",
+		[2] = "Testerushka greets Rabbit warmly.",
 
 50
 You grin wickedly.
 You grin wickedly at Rabbit.
-
+		[2] = "Testerushka grins wickedly.",
+	},
+	[86] = {
+		[1] = "50",
+		[2] = "Testerushka grins at you wickedly.",
+	},
+	[87] = {
+		[1] = "50",
+		[2] = "Testerushka grins wickedly at Rabbit.",
 
 51
 You begin to groan.
 You look at Rabbit and groan.
-
+		[2] = "Testerushka begins to groan.",
+	},
+	[89] = {
+		[1] = "51",
+		[2] = "Testerushka looks at you and groans.",
+	},
+	[90] = {
+		[1] = "51",
+		[2] = "Testerushka looks at Rabbit and groans.",
 
 52
 You grovel on the ground, wallowing in subservience.
 You grovel before Rabbit like a subservient peon.
-
+		[2] = "Testerushka grovels on the ground, wallowing in subservience.",
+	},
+	[92] = {
+		[1] = "52",
+		[2] = "Testerushka grovels before you like a subservient peon.",
+	},
+	[93] = {
+		[1] = "52",
+		[2] = "Testerushka grovels before Rabbit like a subservient peon.",
 
 53
 You let out a boisterous guffaw!
 You take one look at Rabbit and let out a guffaw!
-
+		[2] = "Testerushka lets out a boisterous guffaw!",
+	},
+	[95] = {
+		[1] = "53",
+		[2] = "Testerushka takes one look at you and lets out a guffaw!",
+	},
+	[96] = {
+		[1] = "53",
+		[2] = "Testerushka takes one look at Rabbit and lets out a guffaw!",
 
 54
 You hail those around you.
 You hail Rabbit.
-
+		[2] = "Testerushka hails everyone around her.",
+	},
+	[98] = {
+		[1] = "54",
+		[2] = "Testerushka hails you.",
+	},
+	[99] = {
+		[1] = "54",
+		[2] = "Testerushka hails Rabbit.",
 
 55
 You are filled with happiness!
 You are very happy with Rabbit!
-
+		[2] = "Testerushka is filled with happiness!",
+	},
+	[101] = {
+		[1] = "55",
+		[2] = "Testerushka is very happy with you!",
+	},
+	[102] = {
+		[1] = "55",
+		[2] = "Testerushka is very happy with Rabbit!",
 
 56
 You greet everyone with a hearty hello!
 You greet Rabbit with a hearty hello!
-
+		[2] = "Testerushka greets everyone with a hearty hello!",
+	},
+	[104] = {
+		[1] = "56",
+		[2] = "Testerushka greets you with a hearty hello!",
+	},
+	[105] = {
+		[1] = "56",
+		[2] = "Testerushka greets Rabbit with a hearty hello!",
 
 57
 You need a hug!
 You hug Rabbit.
-
+		[2] = "Testerushka needs a hug!",
+	},
+	[107] = {
+		[1] = "57",
+		[2] = "Testerushka hugs you.",
+	},
+	[108] = {
+		[1] = "57",
+		[2] = "Testerushka hugs Rabbit.",
 
 58
 You are hungry!
 You are hungry.  Maybe Rabbit has some food...
-
+		[2] = "Testerushka is hungry!",
+	},
+	[110] = {
+		[1] = "58",
+		[2] = "Testerushka is hungry.  Maybe you have some food...",
+	},
+	[111] = {
+		[1] = "58",
+		[2] = "Testerushka is hungry.  Maybe Rabbit has some food...",
 
 59
 You blow a kiss into the wind.
 You blow a kiss to Rabbit.
+		[2] = "Testerushka blows a kiss into the wind.",
+	},
+	[113] = {
+		[1] = "59",
+		[2] = "Testerushka blows you a kiss.",
+	},
+	[114] = {
+		[1] = "59",
+		[2] = "Testerushka blows Rabbit a kiss.",
 
 
 60
 You kneel down.
 You kneel before Rabbit.
-
+		[2] = "Testerushka kneels down.",
+	},
+	[116] = {
+		[1] = "60",
+		[2] = "Testerushka kneels before you.",
+	},
+	[117] = {
+		[1] = "60",
+		[2] = "Testerushka kneels before Rabbit.",
 
 61
 You laugh.
