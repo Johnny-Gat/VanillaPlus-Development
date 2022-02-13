@@ -1,137 +1,180 @@
-1 / agree
+https://www.townlong-yak.com/framexml/1.12.1/ChatFrame.lua#1260
+https://www.townlong-yak.com/framexml/1.12.1/GlobalStrings.lua
+https://www.townlong-yak.com/framexml/live/GlobalStrings.lua/RU
+
+
+EMOTE1_CMD1 = "/agree";
+EMOTE1_CMD2 = "/agree";
 You agree.
 You agree with Rabbit.
 Testerushka agrees.
 Testerushka agrees with you.
 Testerushka agrees with Rabbit.
 
-2 / amaze
+EMOTE2_CMD1 = "/amaze";
+EMOTE2_CMD2 = "/amaze";
 You are amazed!
 You are amazed by Rabbit!
 Testerushka is amazed!
 Testerushka is amazed by you!
 Testerushka is amazed by Rabbit!
 
-3 / angry / mad
+EMOTE3_CMD1 = "/angry";
+EMOTE3_CMD2 = "/mad";
+EMOTE3_CMD3 = "/angry";
+EMOTE3_CMD4 = "/mad";
 You raise your fist in anger.
 You raise your fist in anger at Rabbit.
 Testerushka raises her fist in anger.
 Testerushka raises her fist in anger at you.
 Testerushka raises her fist in anger at Rabbit.
 
-4 / apologize / sorry
+EMOTE4_CMD1 = "/apologize";
+EMOTE4_CMD2 = "/sorry";
+EMOTE4_CMD3 = "/apologize";
+EMOTE4_CMD4 = "/sorry";
 You apologize to everyone.  Sorry!
 You apologize to Rabbit.  Sorry!
 Testerushka apologizes to everyone.  Sorry!
 Testerushka apologizes to you.  Sorry!
 Testerushka apologizes to Rabbit.  Sorry!
 
-5 / applaud / bravo / applause
+EMOTE5_CMD1 = "/applaud";
+EMOTE5_CMD2 = "/bravo";
+EMOTE5_CMD3 = "/applause";
+EMOTE5_CMD4 = "/applaud";
+EMOTE5_CMD5 = "/bravo";
+EMOTE5_CMD6 = "/applause";
 You applaud.  Bravo!
 You applaud at Rabbit.  Bravo!
 Testerushka applauds.  Bravo!
 Testerushka applauds at you.  Bravo!
 Testerushka applauds at Rabbit.  Bravo!
 
-6 / bashful
+EMOTE6_CMD1 = "/bashful";
+EMOTE6_CMD2 = "/bashful";
 You are bashful.
 You are so bashful...too bashful to get Rabbit's attention.
 Testerushka is bashful.
 Testerushka is so bashful...too bashful to get your attention.
 Testerushka is so bashful...too bashful to get Rabbit's attention.
 
-7 / beckon
+EMOTE7_CMD1 = "/beckon";
+EMOTE7_CMD2 = "/beckon";
 You beckon everyone over to you.
 You beckon Rabbit over.
 Testerushka beckons everyone over.
 Testerushka beckons you over.
 Testerushka beckons Rabbit over.
 
-8 / beg
+EMOTE8_CMD1 = "/beg";
+EMOTE8_CMD2 = "/beg";
 You beg everyone around you. How pathetic.
 You beg Rabbit.  How pathetic.
 Testerushka begs everyone around her.  How pathetic.
 Testerushka begs you.  How pathetic.
 Testerushka begs Rabbit.  How pathetic.
 
-9 / bite
+EMOTE9_CMD1 = "/bite";
+EMOTE9_CMD2 = "/bite";
 You look around for someone to bite.
 You bite Rabbit.  Ouch!
 Testerushka looks around for someone to bite.
 Testerushka bites you.  Ouch!
 Testerushka bites Rabbit.  Ouch!
 
-10 / bleed / blood
+EMOTE10_CMD1 = "/bleed";
+EMOTE10_CMD2 = "/blood";
+EMOTE10_CMD3 = "/bleed";
+EMOTE10_CMD4 = "/blood";
 Blood oozes from your wounds.
 Blood oozes from your wounds.
 Blood oozes from Testerushka's wounds.
 Blood oozes from Testerushka's wounds.
 Blood oozes from Testerushka's wounds.
 
-11 / blink
+EMOTE11_CMD1 = "/blink";
+EMOTE11_CMD2 = "/blink";
 You blink your eyes.
 You blink at Rabbit.
 Testerushka blinks.
 Testerushka blinks at you.
 Testerushka blinks at Rabbit.
 
-12 / blush
+EMOTE12_CMD1 = "/blush";
+EMOTE12_CMD2 = "/blush";
 You blush.
 You blush at Rabbit.
 Testerushka blushes.
 Testerushka blushes at you.
 Testerushka blushes at Rabbit.
 
-13 / bonk / doh
+EMOTE13_CMD1 = "/bonk";
+EMOTE13_CMD2 = "/doh";
+EMOTE13_CMD3 = "/bonk";
+EMOTE13_CMD4 = "/doh";
 You bonk yourself on the noggin.  Doh!
 You bonk Rabbit on the noggin.  Doh!
 Testerushka bonks her own noggin.  Doh!
 Testerushka bonks you on the noggin.  Doh!
 Testerushka bonks Rabbit on the noggin.  Doh!
 
-14 / bored
+EMOTE14_CMD1 = "/bored";
+EMOTE14_CMD2 = "/bored";
 You are overcome with boredom.  Oh the drudgery!
 You are terribly bored with Rabbit.
 Testerushka is overcome with boredom.  Oh the drudgery!
 Testerushka is terribly bored with you.
 Testerushka is terribly bored with Rabbit.
 
-15 / bounce
+EMOTE15_CMD1 = "/bounce";
+EMOTE15_CMD2 = "/bounce";
 You bounce up and down.
 You bounce up and down in front of Rabbit.
 Testerushka bounces up and down.
 Testerushka bounces up and down in front of you.
 Testerushka bounces up and down in front of Rabbit.
 
-16 / brb
+EMOTE16_CMD1 = "/brb";
+EMOTE16_CMD2 = "/brb";
 You let everyone know you'll be right back.
 You let Rabbit know you'll be right back.
 Testerushka will be right back.
 Testerushka will be right back.  Sit tight.
 Testerushka will be right back.  Sit tight, Rabbit.
 
-17 / bow
+EMOTE17_CMD1 = "/bow";
+EMOTE17_CMD2 = "/bow";
 You bow down graciously.
 You bow before Rabbit.
 Testerushka bows down graciously.
 Testerushka bows before you.
 Testerushka bows before Rabbit.
 
-18 / burp / belch
+EMOTE18_CMD1 = "/burp";
+EMOTE18_CMD2 = "/belch";
+EMOTE18_CMD3 = "/burp";
+EMOTE18_CMD4 = "/belch";
 You let out a loud belch.
 You burp rudely in Rabbit's face.
 Testerushka lets out a loud belch.
 Testerushka burps rudely in your face.
 Testerushka burps rudely in Rabbit's face.
 
-19 / bye / goodbye / farewell
+EMOTE19_CMD1 = "/bye";
+EMOTE19_CMD2 = "/goodbye";
+EMOTE19_CMD3 = "/farewell";
+EMOTE19_CMD4 = "/bye";
+EMOTE19_CMD5 = "/goodbye";
+EMOTE19_CMD6 = "/farewell";
 You wave goodbye to everyone.  Farewell!
 You wave goodbye to Rabbit.  Farewell!
 Testerushka waves goodbye to everyone.  Farewell!
 Testerushka waves goodbye to you.  Farewell!
 Testerushka waves goodbye to Rabbit.  Farewell!
 
-20 / cackle
+EMOTE20_CMD1 = "/cackle";
+EMOTE20_CMD2 = "/cackle";
 You cackle maniacally at the situation.
 You cackle maniacally at Rabbit.
 Testerushka cackles maniacally at the situation.
@@ -485,210 +528,209 @@ Testerushka takes one look at you and panics.
 Testerushka takes one look at Rabbit and panics.
 
 [1] = "71",
-[2] = "You peer around, searchingly.",
-[2] = "You peer at Rabbit searchingly.",
-[2] = "Testerushka peers around, searchingly.",
-[2] = "Testerushka peers at you searchingly.",
-[2] = "Testerushka peers at Rabbit searchingly.",
+[2] = "You peer around, searchingly.
+[2] = "You peer at Rabbit searchingly.
+[2] = "Testerushka peers around, searchingly.
+[2] = "Testerushka peers at you searchingly.
+[2] = "Testerushka peers at Rabbit searchingly.
 
 [1] = "72",
-[2] = "You drop to your knees and plead in desperation.",
-[2] = "You plead with Rabbit.",
-[2] = "Testerushka drops to her knees and plead in desperation.",
-[2] = "Testerushka pleads with you.",
-[2] = "Testerushka pleads with Rabbit.",
+[2] = "You drop to your knees and plead in desperation.
+[2] = "You plead with Rabbit.
+[2] = "Testerushka drops to her knees and plead in desperation.
+[2] = "Testerushka pleads with you.
+[2] = "Testerushka pleads with Rabbit.
 
 [1] = "73",
-[2] = "You point over yonder.",
-[2] = "You point at Rabbit.",
-[2] = "Testerushka points over yonder.",
-[2] = "Testerushka points at you.",
-[2] = "Testerushka points at Rabbit.",
+[2] = "You point over yonder.
+[2] = "You point at Rabbit.
+[2] = "Testerushka points over yonder.
+[2] = "Testerushka points at you.
+[2] = "Testerushka points at Rabbit.
 
 [1] = "74",
-[2] = "You poke your belly and giggle.",
-[2] = "You poke Rabbit.  Hey!",
-[2] = "Testerushka pokes her belly and giggles.",
-[2] = "Testerushka pokes you.  Hey!",
-[2] = "Testerushka pokes Rabbit.  Hey!",
+[2] = "You poke your belly and giggle.
+[2] = "You poke Rabbit.  Hey!
+[2] = "Testerushka pokes her belly and giggles.
+[2] = "Testerushka pokes you.  Hey!
+[2] = "Testerushka pokes Rabbit.  Hey!
 
 [1] = "75",
-[2] = "You pray to the Gods.",
-[2] = "You say a prayer for Rabbit.",
-[2] = "Testerushka prays to the Gods.",
-[2] = "Testerushka says a prayer for you.",
-[2] = "Testerushka says a prayer for Rabbit.",
+[2] = "You pray to the Gods.
+[2] = "You say a prayer for Rabbit.
+[2] = "Testerushka prays to the Gods.
+[2] = "Testerushka says a prayer for you.
+[2] = "Testerushka says a prayer for Rabbit.
 
 [1] = "76",
-[2] = "You roar with bestial vigor.  So fierce!",
-[2] = "You roar with bestial vigor at Rabbit.  So fierce!",
-[2] = "Testerushka roars with bestial vigor.  So fierce!",
-[2] = "Testerushka roars with bestial vigor at you.  So fierce!",
-[2] = "Testerushka roars with bestial vigor at Rabbit.  So fierce!",
+[2] = "You roar with bestial vigor.  So fierce!
+[2] = "You roar with bestial vigor at Rabbit.  So fierce!
+[2] = "Testerushka roars with bestial vigor.  So fierce!
+[2] = "Testerushka roars with bestial vigor at you.  So fierce!
+[2] = "Testerushka roars with bestial vigor at Rabbit.  So fierce!
 
 [1] = "77",
-[2] = "You roll on the floor laughing.",
-[2] = "You roll on the floor laughing at Rabbit.",
-[2] = "Testerushka rolls on the floor laughing.",
-[2] = "Testerushka rolls on the floor laughing at you.",
-[2] = "Testerushka rolls on the floor laughing at Rabbit.",
+[2] = "You roll on the floor laughing.
+[2] = "You roll on the floor laughing at Rabbit.
+[2] = "Testerushka rolls on the floor laughing.
+[2] = "Testerushka rolls on the floor laughing at you.
+[2] = "Testerushka rolls on the floor laughing at Rabbit.
 
 [1] = "78",
-[2] = "You make a rude gesture.",
-[2] = "You make a rude gesture at Rabbit.",
-[1] = "78",
-[2] = "Testerushka makes a rude gesture.",
-[2] = "Testerushka makes a rude gesture at you.",
-[2] = "Testerushka makes a rude gesture at Rabbit.",
+[2] = "You make a rude gesture.
+[2] = "You make a rude gesture at Rabbit.
+[2] = "Testerushka makes a rude gesture.
+[2] = "Testerushka makes a rude gesture at you.
+[2] = "Testerushka makes a rude gesture at Rabbit.
 
 [1] = "79",
-[2] = "You stand at attention and salute.",
-[2] = "You salute Rabbit with respect.",
-[2] = "Testerushka stands at attention and salutes.",
-[2] = "Testerushka salutes you with respect.",
-[2] = "Testerushka salutes Rabbit with respect.",
+[2] = "You stand at attention and salute.
+[2] = "You salute Rabbit with respect.
+[2] = "Testerushka stands at attention and salutes.
+[2] = "Testerushka salutes you with respect.
+[2] = "Testerushka salutes Rabbit with respect.
 
 [1] = "80",
-[2] = "You scratch yourself.  Ah, much better!",
-[2] = "You scratch Rabbit.  How catty!",
-[2] = "Testerushka scratches herself.  Ah, much better!",
-[2] = "Testerushka scratches you.  How catty!",
-[2] = "Testerushka scratches Rabbit.  How catty!",
+[2] = "You scratch yourself.  Ah, much better!
+[2] = "You scratch Rabbit.  How catty!
+[2] = "Testerushka scratches herself.  Ah, much better!
+[2] = "Testerushka scratches you.  How catty!
+[2] = "Testerushka scratches Rabbit.  How catty!
 
 [1] = "81",
-[2] = "You're too sexy for your tunic...so sexy it hurts.",
-[2] = "You think Rabbit is a sexy devil.",
-[2] = "Testerushka is too sexy for her tunic...so sexy it hurts.",
-[2] = "Testerushka thinks you are a sexy devil.",
-[2] = "Testerushka thinks Rabbit is a sexy devil.",
+[2] = "You're too sexy for your tunic...so sexy it hurts.
+[2] = "You think Rabbit is a sexy devil.
+[2] = "Testerushka is too sexy for her tunic...so sexy it hurts.
+[2] = "Testerushka thinks you are a sexy devil.
+[2] = "Testerushka thinks Rabbit is a sexy devil.
 
 [1] = "82",
-[2] = "You shake your rear.",
-[2] = "You shake your rear at Rabbit.",
-[2] = "Testerushka shakes her rear.",
-[2] = "Testerushka shakes her rear at you.",
-[2] = "Testerushka shakes her rear at Rabbit.",
+[2] = "You shake your rear.
+[2] = "You shake your rear at Rabbit.
+[2] = "Testerushka shakes her rear.
+[2] = "Testerushka shakes her rear at you.
+[2] = "Testerushka shakes her rear at Rabbit.
 
 [1] = "83",
-[2] = "You shout.",
-[2] = "You shout at Rabbit.",
-[2] = "Testerushka shouts.",
-[2] = "Testerushka shouts at you.",
-[2] = "Testerushka shouts at Rabbit.",
+[2] = "You shout.
+[2] = "You shout at Rabbit.
+[2] = "Testerushka shouts.
+[2] = "Testerushka shouts at you.
+[2] = "Testerushka shouts at Rabbit.
 
 [1] = "84",
-[2] = "You shrug.  Who knows?",
-[2] = "You shrug at Rabbit.  Who knows?",
-[2] = "Testerushka shrugs.  Who knows?",
-[2] = "Testerushka shrugs at you.  Who knows?",
-[2] = "Testerushka shrugs at Rabbit.  Who knows?",
+[2] = "You shrug.  Who knows?
+[2] = "You shrug at Rabbit.  Who knows?
+[2] = "Testerushka shrugs.  Who knows?
+[2] = "Testerushka shrugs at you.  Who knows?
+[2] = "Testerushka shrugs at Rabbit.  Who knows?
 
 [1] = "85",
-[2] = "You smile shyly.",
-[2] = "You smile shyly at Rabbit.",
-[2] = "Testerushka smiles shyly.",
-[2] = "Testerushka smiles shyly at you.",
-[2] = "Testerushka smiles shyly at Rabbit.",
+[2] = "You smile shyly.
+[2] = "You smile shyly at Rabbit.
+[2] = "Testerushka smiles shyly.
+[2] = "Testerushka smiles shyly at you.
+[2] = "Testerushka smiles shyly at Rabbit.
 
 [1] = "86",
-[2] = "You let out a long, drawn-out sigh.",
-[2] = "You sigh at Rabbit.",
-[2] = "Testerushka lets out a long, drawn-out sigh.",
-[2] = "Testerushka sighs at you.",
-[2] = "Testerushka sighs at Rabbit.",
+[2] = "You let out a long, drawn-out sigh.
+[2] = "You sigh at Rabbit.
+[2] = "Testerushka lets out a long, drawn-out sigh.
+[2] = "Testerushka sighs at you.
+[2] = "Testerushka sighs at Rabbit.
 
 [1] = "87
 
 [1] = "88",
-[2] = "You fall asleep.  Zzzzzzz.",
-[2] = "You fall asleep.  Zzzzzzz.",
-[2] = "Testerushka falls asleep. Zzzzzzz.",
-[2] = "Testerushka falls asleep. Zzzzzzz.",
-[2] = "Testerushka falls asleep. Zzzzzzz.",
+[2] = "You fall asleep.  Zzzzzzz.
+[2] = "You fall asleep.  Zzzzzzz.
+[2] = "Testerushka falls asleep. Zzzzzzz.
+[2] = "Testerushka falls asleep. Zzzzzzz.
+[2] = "Testerushka falls asleep. Zzzzzzz.
 
 [1] = "89",
-[2] = "You bare your teeth and snarl.",
-[2] = "You bare your teeth and snarl at Rabbit.",
-[2] = "Testerushka bares her teeth and snarls.",
-[2] = "Testerushka bares her teeth and snarls at you.",
-[2] = "Testerushka bares her teeth and snarls at Rabbit.",
+[2] = "You bare your teeth and snarl.
+[2] = "You bare your teeth and snarl at Rabbit.
+[2] = "Testerushka bares her teeth and snarls.
+[2] = "Testerushka bares her teeth and snarls at you.
+[2] = "Testerushka bares her teeth and snarls at Rabbit.
 
 [1] = "90",
-[2] = "You spit on the ground.",
-[2] = "You spit on Rabbit.",
-[2] = "Testerushka spits on the ground.",
-[2] = "Testerushka spits on you.",
-[2] = "Testerushka spits on Rabbit.",
+[2] = "You spit on the ground.
+[2] = "You spit on Rabbit.
+[2] = "Testerushka spits on the ground.
+[2] = "Testerushka spits on you.
+[2] = "Testerushka spits on Rabbit.
 
 [1] = "91",
-[2] = "You stare off into the distance.",
-[2] = "You stare Rabbit down.",
-[2] = "Testerushka stares off into the distance.",
-[2] = "Testerushka stares you down.",
-[2] = "Testerushka stares Rabbit down.",
+[2] = "You stare off into the distance.
+[2] = "You stare Rabbit down.
+[2] = "Testerushka stares off into the distance.
+[2] = "Testerushka stares you down.
+[2] = "Testerushka stares Rabbit down.
 
 [1] = "92",
-[2] = "You are so surprised!",
-[2] = "You are surprised by Rabbit's actions.",
-[2] = "Testerushka is so surprised!",
-[2] = "Testerushka is surprised by your actions.",
-[2] = "Testerushka is surprised by Rabbit's actions.",
+[2] = "You are so surprised!
+[2] = "You are surprised by Rabbit's actions.
+[2] = "Testerushka is so surprised!
+[2] = "Testerushka is surprised by your actions.
+[2] = "Testerushka is surprised by Rabbit's actions.
 
 [1] = "93",
-[2] = "You surrender to your opponents.",
-[2] = "You surrender before Rabbit.  Such is the agony of defeat...",
-[2] = "Testerushka surrenders to her opponents.",
-[2] = "Testerushka surrenders before you.  Such is the agony of defeat...",
-[2] = "Testerushka surrenders before Rabbit.  Such is the agony of defeat...",
+[2] = "You surrender to your opponents.
+[2] = "You surrender before Rabbit.  Such is the agony of defeat...
+[2] = "Testerushka surrenders to her opponents.
+[2] = "Testerushka surrenders before you.  Such is the agony of defeat...
+[2] = "Testerushka surrenders before Rabbit.  Such is the agony of defeat...
 
 [1] = "94",
-[2] = "You talk to yourself since no one else seems interested.",
-[2] = "You want to talk things over with Rabbit.",
-[2] = "Testerushka talks to herself since no one else seems interested.",
-[2] = "Testerushka wants to talk things over with you.",
-[2] = "Testerushka wants to talk things over with Rabbit.",
+[2] = "You talk to yourself since no one else seems interested.
+[2] = "You want to talk things over with Rabbit.
+[2] = "Testerushka talks to herself since no one else seems interested.
+[2] = "Testerushka wants to talk things over with you.
+[2] = "Testerushka wants to talk things over with Rabbit.
 
 [1] = "95",
-[2] = "You talk excitedly with everyone.",
-[2] = "You talk excitedly with Rabbit.",
-[2] = "Testerushka talks excitedly with everyone.",
-[2] = "Testerushka talks excitedly with you.",
-[2] = "Testerushka talks excitedly with Rabbit.",
+[2] = "You talk excitedly with everyone.
+[2] = "You talk excitedly with Rabbit.
+[2] = "Testerushka talks excitedly with everyone.
+[2] = "Testerushka talks excitedly with you.
+[2] = "Testerushka talks excitedly with Rabbit.
 
 [1] = "96",
-[2] = "You want to know the meaning of life.",
-[2] = "You question Rabbit.",
-[2] = "Testerushka wants to know the meaning of life.",
-[2] = "Testerushka questions you.",
-[2] = "Testerushka questions Rabbit.",
+[2] = "You want to know the meaning of life.
+[2] = "You question Rabbit.
+[2] = "Testerushka wants to know the meaning of life.
+[2] = "Testerushka questions you.
+[2] = "Testerushka questions Rabbit.
 
 [1] = "97",
-[2] = "You tap your foot.  Hurry up already!",
-[2] = "You tap your foot as you wait for Rabbit.",
-[2] = "Testerushka taps her foot.  Hurry up already!",
-[2] = "Testerushka taps her foot as she waits for you.",
-[2] = "Testerushka taps her foot as she waits for Rabbit.",
+[2] = "You tap your foot.  Hurry up already!
+[2] = "You tap your foot as you wait for Rabbit.
+[2] = "Testerushka taps her foot.  Hurry up already!
+[2] = "Testerushka taps her foot as she waits for you.
+[2] = "Testerushka taps her foot as she waits for Rabbit.
 
 [1] = "98",
-[2] = "You thank everyone around you.",
-[2] = "You thank Rabbit.",
-[2] = "Testerushka thanks everyone.",
-[2] = "Testerushka thanks you.",
-[2] = "Testerushka thanks Rabbit.",
+[2] = "You thank everyone around you.
+[2] = "You thank Rabbit.
+[2] = "Testerushka thanks everyone.
+[2] = "Testerushka thanks you.
+[2] = "Testerushka thanks Rabbit.
 
 [1] = "99",
-[2] = "You threaten everyone with the wrath of doom.",
-[2] = "You threaten Rabbit with the wrath of doom.",
-[2] = "Testerushka threatens everyone with the wrath of doom.",
-[2] = "Testerushka threatens you with the wrath of doom.",
-[2] = "Testerushka threatens Rabbit with the wrath of doom.",
+[2] = "You threaten everyone with the wrath of doom.
+[2] = "You threaten Rabbit with the wrath of doom.
+[2] = "Testerushka threatens everyone with the wrath of doom.
+[2] = "Testerushka threatens you with the wrath of doom.
+[2] = "Testerushka threatens Rabbit with the wrath of doom.
 
 [1] = "100",
-[2] = "You let everyone know that you are tired.",
-[2] = "You let Rabbit know that you are tired.",
-[2] = "Testerushka lets everyone know that she is tired.",
-[2] = "Testerushka lets you know that she is tired.",
-[2] = "Testerushka lets Rabbit know that she is tired.",
+[2] = "You let everyone know that you are tired.
+[2] = "You let Rabbit know that you are tired.
+[2] = "Testerushka lets everyone know that she is tired.
+[2] = "Testerushka lets you know that she is tired.
+[2] = "Testerushka lets Rabbit know that she is tired.
 
 [1] = "101",
 [2] = "You bask in the glory of victory.",
